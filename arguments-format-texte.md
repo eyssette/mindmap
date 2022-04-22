@@ -2,6 +2,12 @@
 
 ## Un format<br>léger
 - Edition<br>plus rapide
+  - Pas besoin d'un <br>logiciel lourd
+  - Utilisation de logiciels<br> plus adaptés pour l'édition
+    - Éditeur Markdown
+    - IDE (Visual Studio Code, <br>Sublime Text, Atom …)
+    - Vim, Emacs
+  - Focalisation sur le fond<br> et pas sur la forme
 - Sauvegarde<br>plus rapide
   - Synchronisation<br>facilitée
   - Versionnage<br>facilité
@@ -13,6 +19,7 @@
 - On peut utiliser <br>n'importe quelle machine
 - On peut utiliser <br>n'importe quel logiciel<br> d'édition de texte
 - On peut collaborer<br>plus facilement<br>sur un même fichier
+- Pérennité assurée
 
 ## Un format<br>polyvalent
 
