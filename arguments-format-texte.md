@@ -9,11 +9,13 @@
 - Recherche<br>plus rapide dans<br>ses fichiers
 
 ## Un format<br>ouvert
+
 - On peut utiliser <br>n'importe quelle machine
 - On peut utiliser <br>n'importe quel logiciel<br> d'édition de texte
 - On peut collaborer<br>plus facilement<br>sur un même fichier
 
 ## Un format<br>polyvalent
+
 - On peut créer des<br>documents texte<br>complexes ...
   - en Markdown
     - conversion facile <br>en d'autres formats<br>avec Pandoc
