@@ -16,6 +16,7 @@
 - Clic sur 👓 pour **cacher** la<br> fenêtre d'édition et **voir** <br>seulement la carte mentale
 - Clic sur 💾 pour **enregistrer** <br>la carte au format **svg**
 - Clic sur 🔗 pour copier un **lien**<br> de **partage** de la carte mentale<br>dans le presse-papier
+- Clic sur les **cercles** à l'intersection<br>des différentes branches pour<br>**afficher ou masquer la suite**
 
 
 ## Usages plus<br> avancés
@@ -29,5 +30,8 @@
   - `<br>` pour forcer le passage à la ligne
   - `<img src="URL" style="height:…"/>`<br>pour insérer une image
   - `<span style="...">texte</span>`<br>pour changer le style d'un élément
+  - `<!--fold-->` pour que les sous-branches<br>soient cachées par défaut : il faut cliquer<br>sur le cercle pour afficher la suite<!-- fold-->
+    - Cette branche est cachée par défaut !
+    - Cette branche aussi !   
 - On peut mettre son texte **sur une forge**<br> et l'afficher avec myMarkmap ainsi :
 `https://mymarkmap.vercel.app/#URL`
