@@ -15,7 +15,7 @@
   - Ou bien, on fait une liste à puces<br>`- Niveau 3`<br>　`  - Niveau 4`<br>`- Niveau 3`<br>(on ajoute 2 espaces avant <br>pour  passer à un autre niveau)
 - Clic sur 👓 pour **cacher** la<br> fenêtre d'édition et **voir** <br>seulement la carte mentale
 - Clic sur 💾 pour **enregistrer** <br>la carte au format **svg**
-- Clic sur 🔗 pour créer un **lien**<br> de **partage** de la carte mentale
+- Clic sur 🔗 pour copier un **lien**<br> de **partage** de la carte mentale<br>dans le presse-papier
 
 
 ## Usages plus<br> avancés
