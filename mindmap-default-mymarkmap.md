@@ -28,6 +28,6 @@
 - On peut utiliser certaines balises HTML<br>pour contrôler plus précisément<br>l'affichage de sa carte mentale
   - `<br>` pour forcer le passage à la ligne
   - `<img src="URL" style="height:…"/>`<br>pour insérer une image
-  - `<span style="...">texte</span>`
+  - `<span style="...">texte</span>`<br>pour changer le style d'un élément
 - On peut mettre son texte sur une forge<br> et l'afficher avec myMarkmap ainsi :
 `https://mymarkmap.vercel.app/#URL`
