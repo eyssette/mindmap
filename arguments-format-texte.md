@@ -1,16 +1,16 @@
 # Les arguments<br>en faveur du<br>format texte
 
 ## Un format<br>léger
-- **Edition**<br>plus rapide
-  - Pas besoin d'un <br>logiciel **lourd**
-  - Utilisation de logiciels<br> **plus adaptés** pour l'édition
+- **Édition**<br>plus rapide
+  - pas besoin d'un <br>logiciel **lourd**
+  - utilisation de logiciels<br> **plus adaptés** pour l'édition
     - `Éditeur Markdown`
     - `IDE : Visual Studio Code, `<br>`Sublime Text, Atom …`
     - `Vim, Emacs`
-  - Focalisation sur **le fond**<br> et pas sur **la forme**
+  - focalisation sur **le fond**<br> et pas sur **la forme**
 - **Sauvegarde** <br>plus rapide
-  - **Synchronisation**<br>facilitée
-  - **Versionnage**<br>facilité
+  - **synchronisation**<br>facilitée
+  - **versionnage**<br>facilité
 - **Sauvegarde** plus économe<br> et plus écologique
 - **Recherche** plus rapide <br>dans ses fichiers
 
