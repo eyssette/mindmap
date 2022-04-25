@@ -14,10 +14,9 @@
   - `### Niveau 3`,<br> `#### Niveau 4`<br>… ensuite
   - Ou bien, on fait une liste à puces<br>`- Niveau 3`<br>　`  - Niveau 4`<br>`- Niveau 3`<br>(on ajoute 2 espaces avant <br>pour  passer à un autre niveau)
 - Clic sur 👓 pour **cacher** la<br> fenêtre d'édition et **voir** <br>seulement la carte mentale
-- Clic sur 💾 pour **enregistrer** <br>la carte au format **svg**
+- Clic sur 💾 pour **enregistrer** <br>la carte au format _svg_
 - Clic sur 🔗 pour copier un **lien**<br> de **partage** de la carte mentale<br>dans le presse-papier
 - Clic sur les **cercles** à l'intersection<br>des différentes branches pour<br>**afficher ou masquer la suite**
-
 
 ## Usages plus<br> avancés
 
@@ -32,6 +31,11 @@
   - `<span style="...">texte</span>`<br>pour changer le style d'un élément
   - `<!--fold-->` pour que les sous-branches<br>soient cachées par défaut : il faut cliquer<br>sur le cercle pour afficher la suite<!-- fold-->
     - Cette branche est cachée par défaut !
-    - Cette branche aussi !   
+    - Cette branche aussi !
+- **Raccourcis** clavier
+  - `e` pour ouvrir la fenêtre d'édition
+  - `Escape` pour la fermer
+  - `s` pour sauvegarder la carte au format _svg_
+  - `l` pour copier le lien vers la carte
 - On peut mettre son texte **sur une forge**<br> et l'afficher avec myMarkmap ainsi :
 `https://mymarkmap.vercel.app/#URL`
