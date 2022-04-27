@@ -27,11 +27,11 @@
   - ``` `code` ``` : Pour insérer du `code` 
 - On peut utiliser certaines **balises HTML**<br>pour contrôler plus précisément<br>l'affichage de sa carte mentale
   - `<br>` pour forcer le passage à la ligne
-  - `<img src="URL" style="height:…"/>`<br>pour insérer une image
-  - `<span style="...">texte</span>`<br>pour changer le style d'un élément
   - `<!--fold-->` pour que les sous-branches<br>soient cachées par défaut : il faut cliquer<br>sur le cercle pour afficher la suite<!-- fold-->
     - Cette branche est cachée par défaut !
     - Cette branche aussi !
+  - `<img src="URL" style="height:…"/>`<br>pour insérer une image
+  - `<span style="...">texte</span>`<br>pour changer le style d'un élément
 - On peut utiliser des <br>codes pour les emojis :+1:
 - **Raccourcis** clavier
   - `e` pour ouvrir la fenêtre d'édition
