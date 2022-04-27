@@ -32,6 +32,7 @@
   - `<!--fold-->` pour que les sous-branches<br>soient cachées par défaut : il faut cliquer<br>sur le cercle pour afficher la suite<!-- fold-->
     - Cette branche est cachée par défaut !
     - Cette branche aussi !
+- On peut utiliser des <br>codes pour les emojis :+1:
 - **Raccourcis** clavier
   - `e` pour ouvrir la fenêtre d'édition
   - `Escape` pour la fermer
