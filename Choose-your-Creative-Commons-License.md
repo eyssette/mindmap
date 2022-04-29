@@ -23,6 +23,6 @@
 - <b>Yes</b> :  <span style="font-weight:normal">`CC BY ND`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nd.svg)
 - <b>No</b> : <span style="font-weight:normal">`CC BY NC ND`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-nd.svg)
 
-### <b>No</b> \\\\ <span style="font-weight:normal">Pas de licence \\ Creative Commons</span>
+### <b>No</b> \\\\ <span style="font-weight:normal">No Creative \\ Commons \\ License</span>
 
 ## \\\\  <span style="font-weight:normal; font-size:14px; ">A mind map created by [Cédric Eyssette](https://eyssette.github.io/) \\ under licence _CC BY SA 3.0_, based on the \\ work of [Barbara Klute et Jöran Muuß-Merholz](https://www.joeran.de/infographic-on-creative-commons-licences/)</span>
