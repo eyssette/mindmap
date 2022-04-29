@@ -6,6 +6,7 @@
   - Choix possible d'un serveur \\ plus cohérent avec ses valeurs, \\ ses centres d'intérêt
   - Possibilité d'accéder cependant \\ aux comptes sur les autres serveurs
   - Possibilité de migrer sans difficultés \\ vers un autre serveur
+  - Interaction possible avec d'autres\\ applications : Peertube, PixelFed …
 - \\ Des communautés \\**plus respecteuses**
 
 
