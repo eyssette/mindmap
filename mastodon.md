@@ -5,7 +5,7 @@
 - Des serveurs \\**décentralisés**,  \\ mais **interconnectés**
   - Choix possible d'un serveur \\ plus cohérent avec ses valeurs, \\ ses centres d'intérêt
   - Possibilité d'accéder cependant \\ aux comptes sur les autres serveurs
-  - Possibilité de migrer sans difficultés \\ vers un autre serveur
+  - Possibilité de migrer sans difficultés \\ vers un autre serveur ou d'utiliser une \\ autre application Pleroma, Misskey
   - Interaction possible avec d'autres\\ applications : Peertube, PixelFed …
 - \\ Des communautés \\**plus respecteuses**
 
@@ -24,4 +24,6 @@
     - Utiliser un répertoire \\ de comptes : [Trunk](https://communitywiki.org/trunk/)
   - Regarder le fil local \\ de votre serveur
   - Regarder le fil global
-- \\ Plus d'informations : \\ [voir l'aide en ligne](https://mastodon.help/)
+- \\ **Plus d'informations**
+  - Voir [l'aide en ligne](https://mastodon.help/)
+  - Choisir [une appli \\ pour téléphone](https://mastodon.help/#MastodonOnSmartphones)
