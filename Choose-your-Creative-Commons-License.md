@@ -1,6 +1,6 @@
 # Choose your \\ _Creative \\Commons_ \\ license <style>code {color:red!important; background:Noe!important; display:inline-block; font-size:1em!important} img {display:block; margin-top:0.3em; margin-bottom:0.4em}</style>
 
-## <b>Première question</b> \\ \\<span style="font-weight:normal">May others copy \\ and redistribute the \\ material in any \\ medium or format ?</span>
+## <b>First question</b> \\ \\<span style="font-weight:normal">May others copy \\ and redistribute the \\ material in any \\ medium or format ?</span>
 
 ### <b>Yes</b> \\ \\<span style="font-weight:normal">… but do you allow \\ adoptions of your \\ work to be shared ?</span>
 
