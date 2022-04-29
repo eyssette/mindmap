@@ -13,7 +13,7 @@
 
 ##### <b>Non</b> :  <span style="font-weight:normal">`CC BY NC`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc.svg)
 
-#### <b>Ça dépend</b> \\ \\<span style="font-weight:normal">… mais autorisez-vous \\ l'usage commercial \\ de votre œuvre ?</span>
+#### <b>Oui, à condition que\\ l'œuvre soit partagée dans \\ les mêmes conditions</b> \\ \\<span style="font-weight:normal">… mais autorisez-vous \\ l'usage commercial \\ de votre œuvre ?</span>
 
 - <b>Oui</b> : <span style="font-weight:normal">`CC BY SA`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)
 - <b>Non</b> : <span style="font-weight:normal">`CC BY NC SA`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.svg)
