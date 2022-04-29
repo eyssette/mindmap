@@ -11,7 +11,7 @@
 
 ## <span class="ml-20">Comment ?</span>
 
-- \\\\:one: Choisir son **serveur**
+- \\\\ :one: Choisir son **serveur**
   - \\\\ On peut faire une recherche \\ par mot-clé sur [instances.social](https://instances.social/list)
   - Bien regarder les conditions d'utilisation :\\ chaque serveur a ses règles spécifiques
 - :two: Créer son **profil**
