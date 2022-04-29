@@ -6,7 +6,7 @@
 
 #### <b>Yes</b> \\ \\<span style="font-weight:normal">… but do you allow \\ commercial uses \\ of your work ?</span>
 
-##### <b>Yes</b> \\ \\<span style="font-weight:normal">… but do you waive all \\ interests in your works \\ and therebys place them \\ as completely as possible \\ in the public domain ?</span>
+##### <b>Yes</b> \\ \\<span style="font-weight:normal">… but do you waive all \\ interests in your works \\ and thereby place them \\ as completely as possible \\ in the public domain ?</span>
 
 - <b>Yes</b> : <span style="font-weight:normal">`CC ZERO`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
 - <b>No</b> : <span style="font-weight:normal">`CC BY`</span> ![h-50](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
