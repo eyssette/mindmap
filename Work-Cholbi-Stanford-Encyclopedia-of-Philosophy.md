@@ -1,4 +1,4 @@
-# Cholbi, Michael, \\"Philosophical Approaches \\to Work and Labor",\\ _The Stanford Encyclopedia \\ of Philosophy_ [:link:](https://plato.stanford.edu/entries/work-labor/) \\ section 1 & 2
+# Cholbi, Michael, \\"Philosophical Approaches \\to Work and Labor",\\ _The Stanford Encyclopedia \\ of Philosophy_ [:link:](https://plato.stanford.edu/entries/work-labor/) \\ sections 1 & 2
 
 ## :one: Conceptual Distinctions:\\ Work, Labor, Employment, Leisure
 ### Work : a loose \\ concept ? <!--fold-->
