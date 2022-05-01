@@ -81,7 +81,7 @@
 
 #### The sceptical case \\ against work or work \\ culture  can be analysed \\ as having four strands
 
-##### Goods \\ not realized
+##### Goods \\ not realized <!--fold-->
 
 - General idea <!--fold-->
   - <blockquote>"While work can be a source of various goods, many people’s working lives fail to provide them these goods. Popular enthusiasm for work thus seems misplaced, according to work sceptics, for “the moral sanctity of work is painfully out of step with the way that a vast proportion of people actually experience their jobs” (Frayne 2015: 62–63)."</blockquote>
@@ -106,7 +106,7 @@
 
   - <blockquote>"That labor markets are competitive may also undermine the social benefits of work, for even those who succeed in the labor market do so by being ‘pitted against’ other workers in ways that reduce solidarity among them, turning fellow citizens into rivals who are indifferent (or even hostile to) each other’s interests (Hussain 2020)."</blockquote>
   
-##### Unrecognized \\ bads or costs
+##### Unrecognized \\ bads or costs <!--fold-->
 
 - Costs resulting from \\ the amount of time \\ spent working <!--fold-->
   - <blockquote>"The most obvious of these is the opportunity costs resulting from the amount of time spent working. Typically, full-time workers spend 1,500–2,500 hours per year on the job, equivalent to around nine to fifteen weeks annually. These are hours that, were they not allocated to working, could be devoted to leisure, sleep, exercise, family life, civic and community engagement, and so on (Rose 2016)."</blockquote>
