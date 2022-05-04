@@ -22,7 +22,7 @@ maxWidth: 600
 - Clic sur 🔗 pour copier un **lien** \\  de **partage** de la carte mentale \\ dans le presse-papier
 - Clic sur les **cercles** à l'intersection \\ des différentes branches pour \\ **afficher ou masquer la suite**
 
-## Usages plus \\  avancés
+## Usages plus \\  avancés <!--fold-->
 
 ### Des balises pour \\ **contrôler l'affichage** \\ de la carte
 
