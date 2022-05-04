@@ -1,3 +1,7 @@
+---
+maxWidth: 600
+---
+
 # myMarkmap
 
 ## Un outil libre \\  et gratuit
@@ -18,29 +22,46 @@
 - Clic sur 🔗 pour copier un **lien** \\  de **partage** de la carte mentale \\ dans le presse-papier
 - Clic sur les **cercles** à l'intersection \\ des différentes branches pour \\ **afficher ou masquer la suite**
 
-## Usages plus \\  avancés<!--fold-->
+## Usages plus \\  avancés
 
-- On peut utiliser d'autres \\  **balises markdown**
-  - `**texte**` : pour mettre en **gras**
-  - `_texte_` : pour mettre en _italiques_
-  - `[lien](URL)` : pour insérer un [lien](https://eyssette.github.io/)
-  - `![](URL)` : pour insérer une image
-  - ``` `code` ``` : Pour insérer du `code` 
-- On peut utiliser certaines **balises HTML** \\ pour contrôler plus précisément \\ l'affichage de sa carte mentale
-  - ` \\ ` pour forcer le passage à la ligne
-  - `<!--fold-->` pour que les sous-branches \\ soient cachées par défaut : il faut cliquer \\ sur le cercle pour afficher la suite<!-- fold-->
+### Des balises pour \\ **contrôler l'affichage** \\ de la carte
+
+#### **Markdown** 
+
+- `**texte**` : pour mettre en **gras**
+- `_texte_` : pour mettre en _italiques_
+- `[lien](URL)` : pour insérer un [lien](https://eyssette.github.io/)
+- `![](URL)` : pour insérer une image
+- ``` `code` ``` : Pour insérer du `code` 
+
+#### **HTML**
+
+- `<br>` pour forcer le passage à \\ la ligne ou bien le raccourci : `\\` 
+- `<span style="...">texte</span>` \\ pour changer le style d'un élément
+  
+#### **Autres \\ balises**
+
+- `<!--fold-->` en fin de ligne pour que les \\ sous-branches soient cachées par défaut : \\ il faut cliquer sur le cercle pour afficher la suite<!-- fold-->
     - Cette branche est cachée par défaut !
     - Cette branche aussi !
-  - `<span style="...">texte</span>` \\ pour changer le style d'un élément
-- On peut utiliser \\ **d'autres balises**
-  - Des codes pour les emojis :+1:
-  - `\\` pour le passage à la ligne
-  - `{{partie masquée}}` pour masquer une partie d'un texte
-  - `![h-25](URL)` : pour spécifier la hauteur  \\de l'image (de h-25, h-50 … à h-200)
-- **Raccourcis** clavier
-  - `e` pour ouvrir la fenêtre d'édition
-  - `Escape` pour la fermer
-  - `s` pour sauvegarder la carte au format _svg_
-  - `l` pour copier le lien vers la carte
-- On peut mettre son texte **sur une forge** \\  et l'afficher avec myMarkmap ainsi :
-`https://mymarkmap.vercel.app/#URL`
+- Des codes pour les emojis :+1:
+- `{{partie masquée}}` pour masquer une partie \\ d'un texte :  voici par exemple un {{passage}} masqué \\ (cliquer dessus pour afficher / masquer à nouveau)
+- `![h-25](URL)` : pour spécifier la hauteur  \\de l'image (de h-25, h-50 … à h-200)
+
+#### **En-tête** \\ (YAML)
+
+- Pour spécifier la largeur \\ maximale d'une branche
+	- `---` \\ `maxWidth: 300` \\ `---`
+
+### Des **raccourcis clavier** pour \\ éditer plus rapidement \\ la carte
+
+- `e` pour ouvrir la fenêtre d'édition
+- `Escape` pour la fermer
+- `s` pour sauvegarder la carte au format _svg_
+- `l` pour copier le lien vers la carte
+
+### Possibilité d'utiliser un \\ **fichier externe**
+
+- On peut mettre son texte \\ **sur une forge** et l'afficher \\ avec myMarkmap
+	- `https://mymarkmap.vercel.app/#URL`
+	- En cas de problème : \\ `https://mymarkmap.vercel.app/#https://api.allorigins.win/raw?url=?`
