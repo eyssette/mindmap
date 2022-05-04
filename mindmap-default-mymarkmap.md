@@ -64,4 +64,4 @@ maxWidth: 600
 
 - On peut mettre son texte \\ **sur une forge** et l'afficher \\ avec myMarkmap
 	- `https://mymarkmap.vercel.app/#URL`
-	- En cas de problème : \\ `https://mymarkmap.vercel.app/#https://api.allorigins.win/raw?url=?`
+	- En cas de problème : \\ `https://mymarkmap.vercel.app/#https://api.allorigins.win/raw?url=URL`
