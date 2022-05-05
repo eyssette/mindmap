@@ -32,6 +32,7 @@ maxWidth: 600
 - `_texte_` : pour mettre en _italiques_
 - `[lien](URL)` : pour insérer un [lien](https://eyssette.github.io/)
 - `![](URL)` : pour insérer une image
+	- `![h-25](URL)` : pour spécifier la hauteur  \\de l'image (de h-25, h-50 … à h-200)
 - ``` `code` ``` : Pour insérer du `code` 
 
 #### **HTML**
@@ -46,7 +47,6 @@ maxWidth: 600
     - Cette branche aussi !
 - `:code_emoji:` : pour insérer un code pour un emoji [:link:](https://raw.githubusercontent.com/omnidan/node-emoji/master/lib/emoji.json)
 - `{{partie masquée}}` pour masquer une partie \\ d'un texte :  voici par exemple un {{passage}} masqué \\ (cliquer dessus pour afficher / masquer à nouveau)
-- `![h-25](URL)` : pour spécifier la hauteur  \\de l'image (de h-25, h-50 … à h-200)
 
 #### **En-tête** \\ (YAML)
 
