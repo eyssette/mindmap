@@ -12,7 +12,7 @@ maxWidth: 600
 
 ## Pour faire des \\  cartes mentales
 
-- Clic sur 🖊️ en haut à gauche \\ (_raccourci clavier : `e`_) pour \\ **éditer** sa carte mentale.  On \\ utilise  la syntaxe **Markdown** \\ pour créer des branches
+- Clic sur ✒️ en haut à gauche \\ (_raccourci clavier : `e`_) pour \\ **éditer** sa carte mentale.  On \\ utilise  la syntaxe **Markdown** \\ pour créer des branches
   - `# Titre`  \\ pour le niveau 1
   - `## Sous-titre` \\  pour le niveau 2
   - `### Niveau 3`, \\  `#### Niveau 4` \\ … ensuite
