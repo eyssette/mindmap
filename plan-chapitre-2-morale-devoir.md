@@ -2,14 +2,14 @@
 
 ## Q1 – Y a-t-il <br>des vérités<br> en morale ?
 
-### <span class="ml-20">Non</span>
+### Non
 - `Le subjectivisme`<br>` moral`
 	- `Hume` : il faut distinguer <br>les jugements de fait et<br>les jugements de valeur
 - `Le relativisme`<br>` culturel`
 	- `Lévi-Strauss` : critique<br> de l'ethnocentrisme
 	- `Montaigne` : « Chacun <br>appelle barbarie ce qui <br>n'est pas de ses usages »
 
-### <span class="ml-20">Oui</span>
+### Oui
 - Critique du <br>relativisme culturel
 - Critique du subjectivisme moral	
 - Le réalisme moral de `Malebranche`

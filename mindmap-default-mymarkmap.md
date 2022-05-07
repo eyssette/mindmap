@@ -6,7 +6,7 @@ maxWidth: 600
 
 ## Un outil libre \\  et gratuit
 
-### <span class="ml-2">[Sources](https://github.com/eyssette/myMarkmap/) sur Github</span>
+### [Sources](https://github.com/eyssette/myMarkmap/) sur Github
 ### _Auteur_ : [Cédric Eyssette](https://eyssette.github.io/)
 ### Créé à partir du \\  logiciel [markmap](https://markmap.js.org/)
 

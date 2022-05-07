@@ -1,6 +1,6 @@
 # Join \\ Mastodon
 
-## <span class="ml-20">Why ?</span>
+## Why ?
 - A **free** and **_open-source_**  software\\ without **ads** and without **_tracking_**
 - An **interconnected** \\ and  **decentralized** \\network of servers
   - You can choose a server more \\ in line with your **values** & **interests**
@@ -10,7 +10,7 @@
 - \\ **More respectful** \\ communities
 
 
-## <span class="ml-20">How ?</span>
+## How ?
 
 - \\\\ :one: Choose your **server**
   - \\\\ **Search** for a server by \\ **keywords** with [instances.social](https://instances.social/list)

@@ -1,6 +1,6 @@
 # Mastodon, \\ plutôt que Twitter
 
-## <span class="ml-20">Pourquoi ?</span>
+## Pourquoi ?
 - Un logiciel **libre** et **_open-source_** \\ sans **publicité** et sans **_tracking_**
 - Des serveurs \\**décentralisés**,  \\ mais **interconnectés**
   - Choix possible d'un serveur \\ plus cohérent avec ses valeurs, \\ ses centres d'intérêt
@@ -10,7 +10,7 @@
 - \\ Des communautés \\**plus respecteuses**
 
 
-## <span class="ml-20">Comment ?</span>
+## Comment ?
 
 - \\\\ :one: Choisir son **serveur**
   - \\\\ On peut faire une recherche \\ par mot-clé sur [instances.social](https://instances.social/list)
