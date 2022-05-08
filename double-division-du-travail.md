@@ -1,6 +1,6 @@
-# Double division \\ du travail
+# Double division \\ du travail
 
-## Division \\ <u>verticale</u> \\ du travail
+## Division \\ ++verticale++ \\ du travail
 
 - Les **ingénieurs** conçoivent \\ le produit et la manière la \\ plus efficace de le produire
 
@@ -9,8 +9,7 @@ simplement exécuter
 les tâches qu'on leur
 indique de faire
 
-## Division \\ <u>horizontale</u> \\ du travail
-
+## Division \\ ++horizontale++ \\ du travail
 - Le processus de production
 est décomposé en **une série
 d'opération partielles**.
