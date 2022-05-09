@@ -51,3 +51,12 @@ maxWidth: 350
 
 ### Études de cas
 
+### Statut des cas de résultats biaisés en science
+
+### L’empirisme contextuel d’Helen Longino
+
+### L’idéal de «gestion des valeurs »
+
+### Empirisme féministe radical
+
+## Une science à des fins féministes
