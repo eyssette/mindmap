@@ -10,7 +10,7 @@ maxWidth: 245
 
 - <blockquote>“[T]here ought to exist the fullest liberty of professing and discussing, as a matter of ethical conviction, any doctrine, however immoral it may be considered”</blockquote>
 
-### **Only one situation** in which free speech can be impeded
+### **Only one situation** in which free speech can be impeded : \\ harm to others
 
 - <blockquote>“That the only purpose for which power can be righfully exercised over any member of a civilized community, against his will, is to prevent harm to others.”</blockquote>
 

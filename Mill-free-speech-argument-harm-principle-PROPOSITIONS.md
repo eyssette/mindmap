@@ -14,7 +14,7 @@
 
 
 
-**Only one situation** in which free speech can be impeded
+**Only one situation** in which free speech can be impeded : harm to others
 
 Even if an opinion is mostly false, there may be some **grain of truth** hidden within it
 
