@@ -7,7 +7,7 @@ style: blockquote {width:206px!important; margin-left:0px} mark {padding:3px 5px
 
 ## ==[B]== Se donner des ++b++uts
 
-- Analyser de ce qu'on a à faire avant de commencer à étudier
+- Analyser ce qu'on a à faire avant de commencer à étudier
 - Organiser son travail en faisant régulièrement des petites séances, plutôt qu'une grosse séance juste avant l'évaluation<aside>(= “pratique espacée” ou “pratique distribuée”)</aside>
 - Organiser son travail en mélangeant différents thèmes lors d'une même séance d'étude, plutôt que de travailler en continu sur un même thème <aside>(= “pratique entrelacée”)
 
