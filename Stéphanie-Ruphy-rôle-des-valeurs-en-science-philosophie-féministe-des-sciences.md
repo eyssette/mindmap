@@ -1,8 +1,8 @@
 ---
-maxWidth: 350
+maxWidth: 300
 ---
 
-# <cite>Stéphanie Ruphy, \\ « Rôle des valeurs en science : contributions de la philosophie féministe des sciences »</cite>
+# Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en science : contributions de la philosophie  féministe des sciences »</cite>
 
 ## Introduction
 
@@ -38,7 +38,7 @@ maxWidth: 350
 - Reconnaissance progressive du rôle que peuvent jouer des valeurs au cœur même des processus de choix théoriques : article de Ernan McMullin (“_Values in Science_”), ouvrage d'Heather Douglas (_Science, Policy and the Value-Free Ideal_) 
 - Parfois sous une forme plus restrictive : reconnaissance seulement de l'importance des valeurs épistémiques : article d'Isaac Levi (“_Must the Scientist Make Value Judgment ?_”)
 - Deux figures majeures de la discipline montrent une certaine ambivalence à l'égard d'un tel idéal de neutralité : Carl Hempel et Ernst Nagel
-- Nagel identifie quatres catégories d'influences pottentielles
+- Nagel identifie quatre catégories d'influences potentielles
 	- La sélection des problèmes
 	- La détermination du contenu des conclusions
 	- L'identification des faits
