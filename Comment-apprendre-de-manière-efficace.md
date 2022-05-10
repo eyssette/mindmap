@@ -14,7 +14,7 @@ style: blockquote {width:206px!important; margin-left:0px} mark {padding:3px 5px
 ## ==[A]== Étudier de manière ++a++ctive
 
 - \\ :black_nib:  Faire régulièrement des résumés des points importants et écrire les questions que l'on se pose
-- :black_nib:  Faire une synthèse sous forme de listes, de carte mentale ou de schéma pour organiser ses connaissances
+- :black_nib:  Faire une synthèse sous forme de listes, \\ de carte mentale ou de schéma pour \\ organiser ses connaissances
 - :black_nib:  Lister le vocabulaire \\ spécifique et les définitions
 
 ## ==[S]== Donner du ++s++ens \\à ce qu'on apprend
