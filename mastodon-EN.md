@@ -21,7 +21,7 @@
 - :three: Find people to **follow**
   - Find users with \\ the **same interests**
     - Search specific **hashtags**
-    - Use a **directory \\ of people**  : [Trunk](https://communitywiki.org/trunk/)
+    - Use a **directory \\ of people**  : [Trunk](https://communitywiki.org/trunk/), [Fediverse](https://fediverse.info/)
    - Check **other users follow lists**
   - Check your **Local** timeline
   - Check your **Federated** timeline

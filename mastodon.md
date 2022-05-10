@@ -21,7 +21,7 @@
 - :three: Suivre d'autres **comptes**
   - Trouver des comptes avec \\ les mêmes centres d'intérêt
     - Faire une recherche \\ avec un hashtag
-    - Utiliser un répertoire \\ de comptes : [Trunk](https://communitywiki.org/trunk/)
+    - Utiliser un répertoire \\ de comptes : [Trunk](https://communitywiki.org/trunk/), [Fediverse](https://fediverse.info/)
   - Regarder le fil local \\ de votre serveur
   - Regarder le fil global
 - \\ **Plus d'informations**
