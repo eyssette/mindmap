@@ -28,7 +28,7 @@ maxWidth: 300
 
 ### Une première opposition à l'orthodoxie positiviste : Richard Rudner
 
-- Orthodoxie positive de l'époque
+- Orthodoxie positiviste de l'époque
 	- Les valeurs ne peuvent pas jouer un rôle en science, car les propositions exprimant un jugement de valeur sont dénués de sens
 	- Les choix entre théories concurrentes sont le résultat de l'application de règles logiques
 - R. Rudner (_The Scientist Qua Scientist Makes Value Judgments”_) chercher à attirer l'attention sur le rôle que jouent des valeurs contextuelles, non épistémiques, en particulier morales, dans le processus d'acceptation des hypothèses scientifiques
