@@ -1,4 +1,4 @@
-# Cholbi, Michael, \\"Philosophical Approaches \\to Work and Labor",\\ _The Stanford Encyclopedia \\ of Philosophy_ [:link:](https://plato.stanford.edu/entries/work-labor/) \\ sections 1 & 2
+# Cholbi, Michael <hr> <cite>“Philosophical Approaches \\to Work and Labor”,  _The \\Stanford Encyclopedia of \\ Philosophy_[:link:](https://plato.stanford.edu/entries/work-labor/), sections 1 & 2</cite> 
 
 ## :one: Conceptual Distinctions:\\ Work, Labor, Employment, Leisure
 ### Work : a loose \\ concept ? <!--fold-->
@@ -7,7 +7,7 @@
 
 ### Work ≠ job <!--fold-->
 
-- <blockquote>"For one, although many contemporary discussions of work focus primarily on employment, not all work takes the form of employment. […] [s]ome instances of work go unpaid or uncompensated altogether. Slaves work, as do prisoners in some cases, but their work is often not compensated. So too for those who volunteer for charities or who provide unpaid care work, attending to the needs of children, the aged, or the ill. Thus, work need not involve working for others, nor need it be materially compensated."</blockquote>
+- <blockquote>"For one, although many contemporary discussions of work focus primarily on employment, not all work takes the form of employment. […] [s]ome instances of work go unpaid or uncompensated altogether. Slaves work, as do prisoners in some cases, but their work is often not compensated. So too for those who volunteer for charities or who provide unpaid care work, attending to the needs of children, the aged, or the ill. Thus, work need not involve working for others, nor need it be materially compensated."</blockquote>
 
 ### Work : an activity \\ that increases the \\ objective value \\ in the world <!--fold-->
 
@@ -37,7 +37,7 @@
 
 - <blockquote>"On perhaps the narrowest conception of work’s value, it only has exchange value. On this conception, work’s value is measured purely in terms of the material goods it generates for the worker, either in monetary terms or in terms of work’s products (growing one’s own vegetables, for instance). To view work as having exchange value is to see its value as wholly extrinsic; there is no value to work as such, only value to be gained from what one’s work concretely produces"</blockquote>
 
-#### Work & \\ well-being <!--fold-->
+#### Work & \\ well-being <!--fold-->
 
 - <blockquote>"One powerful bit of evidence in favour of work’s being valued for reasons unrelated to its exchange value comes from studies&nbsp;of (involuntary) unemployment. Unemployment usually adverse economic effects on workers, inasmuch as it deprives them, at least temporarily, of income. But prolonged unemployment also has measurable negative effects on individuals’ health, both physical and mental (Calvo et al 2015, Margerison-Zilko et al. 2016, Helliwell et al 2017), as well as being among the most stressful of live events. (Holmes and Rahe 1967). That being deprived of work is evidently so detrimental to individual well-being indicates that work matters for many beyond a paycheck."</blockquote>
 
@@ -100,7 +100,7 @@
 
   - <blockquote>"As to meaning or dignity, a wide swath of human work neither engages workers nor allows them to exercise their autonomous judgment, and many work in oppressive or exploitative conditions seemingly at odds with the dignity of the work they perform."</blockquote>
 
-##### Internal tensions \\ among work goods <!--fold-->
+##### Internal tensions \\ among work goods <!--fold-->
 
   - <blockquote>"For instance, many of the professions that individuals view as offering the greatest opportunities for meaningful work (such as education, counseling, or care for the sick, young, or disabled) are among the poorest paid professions. Contemporary labor markets thus seem to offer a workers the opportunity for an inadequate income or meaningful work, but rarely both. "</blockquote>
 
@@ -108,7 +108,7 @@
   
 ##### Unrecognized \\ bads or costs <!--fold-->
 
-- Costs resulting from \\ the amount of time \\ spent working <!--fold-->
+- Costs resulting from \\ the amount of time \\ spent working <!--fold-->
   - <blockquote>"The most obvious of these is the opportunity costs resulting from the amount of time spent working. Typically, full-time workers spend 1,500–2,500 hours per year on the job, equivalent to around nine to fifteen weeks annually. These are hours that, were they not allocated to working, could be devoted to leisure, sleep, exercise, family life, civic and community engagement, and so on (Rose 2016)."</blockquote>
   - <blockquote>"The aforementioned opportunity costs deriving from time devoted to work may worsen workers’ relationships with others or bar their communities from making use of those workers’ skills for socially worthwhile purposes. "</blockquote>
 
