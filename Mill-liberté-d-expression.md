@@ -1,6 +1,6 @@
 ---
 maxWidth: 370 
-style: .under {position:absolute; top:5em; font-size:0.7em; display:block; width:280px}
+style: .under, .under2 {position:absolute; top:5em; font-size:0.7em; display:block; width:280px} .under2 {top:9em}
 ---
 
 # La conception libérale \\de la liberté d'expression<hr><cite>John Stuart Mill, \\_De la liberté_, chap. 2
@@ -15,7 +15,7 @@ style: .under {position:absolute; top:5em; font-size:0.7em; display:block; width
 
 - <blockquote>“That the only purpose for which power can be righfully exercised over any member of a civilized community, against his will, is to prevent harm to others.”</blockquote>
 
-## Le principe de \\ non-nuisance \\ <aside class="under">(_harm principle_)</aside>
+## \\ \\ Le principe de \\ non-nuisance \\ <aside class="under2">(_harm principle_)</aside>
 
 - :question:  **Problème**
 	- \\ \\Qu'est-ce qui compte comme une \\ nuisance, comme un tort à autrui ? \\ Des personnes pourraient s'estimer \\ **lésées**, **blessées moralement** par \\ toute forme d'expression.
@@ -27,7 +27,7 @@ style: .under {position:absolute; top:5em; font-size:0.7em; display:block; width
 - :mag_right:  Un **exemple**  <!--fold-->
   - <blockquote>“An opinion that corn-dealers are starvers of the poor, or that private property is robbery, ought to be unmolested when simply circulated through the press, but may justly incur punishment when delivered orally to an excited mob assembled before the house of a corn-dealer, or when handed about among the same mob in the form of a placard.”</blockquote>
 
-## Quatre \\ arguments 
+## \\ \\ Quatre \\ arguments 
 
 ###  \\ :one:  Il est possible que la thèse adverse soit **vraie**. Refuser cette possibilité, ce serait croire à \\son  **infaillibilité**.  Limiter la liberté d'expression \\  nous expose ainsi  au risque de ne pas pouvoir \\  **rectifier une erreur**.  <!--fold-->
 
