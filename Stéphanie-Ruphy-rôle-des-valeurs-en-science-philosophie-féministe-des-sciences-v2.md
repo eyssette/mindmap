@@ -1,11 +1,11 @@
 ---
 maxWidth: 420
-style: hr:after{content:"Cliquer sur les cercles pour afficher la suite"; position:absolute; top:150px; left:40px; font-weight:normal; font-family:monospace; font-size:12px; width:340px;} 
+style: hr:after{content:"Cliquer sur les cercles pour afficher la suite"; position:absolute; top:150px; left:40px; font-weight:normal; font-family:monospace; font-size:12px; width:340px;}
 ---
 
 # Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en  science : contributions de la philosophie  féministe des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
 
-## La philosophie \\ féministe des \\  sciences :  une \\   contradiction ? <!--fold-->
+## :boom: La philosophie \\ féministe des \\  sciences :  une \\   contradiction ? <!--fold-->
 
 ### **À première \\ vue, oui ...** <!--fold-->
 - Les sciences visent la description et l'explication des faits, de manière objective et neutre
@@ -15,15 +15,15 @@ style: hr:after{content:"Cliquer sur les cercles pour afficher la suite"; positi
 - La philosophie féministe des sciences a permis d'identifier des biais sexistes dans les contenus et les méthodes scientifiques
 - Elle permet également de renouveler la réflexion épistémologique sur ce qu'est l'objectivité, la preuve empirique
 
-## \\ Avant la philosophie \\ féministe des sciences : \\ une première reconnaissance \\ du rôle que jouent les \\  valeurs en science <!--fold-->
+## \\ :scroll: Avant la philosophie \\ féministe des sciences : \\ <aside>Une première reconnaissance du rôle \\que jouent les valeurs en science</aside> <!--fold-->
 
 ### **Contexte historique :** \\ domination du \\positivisme  <!--fold-->
 
-- 
+- :mag_right:
 	- D'après le positivisme, les sciences visent à dire ce qu'est le réel
 	- Seuls les énoncés empiriques (vérifiables par l'expérience) peuvent prétendre dire ce qu'est le réel
 	- Les jugements de valeur ne sont pas des énoncés empiriques 
-- 
+- :arrow_right:
 	- Par conséquent : les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
 	- L'évaluation d'une théorie ne peut se faire qu'en fonction des faits
 ### **Premières \\ contestations** \\ du positivisme \\ à partir de 1953 <!--fold-->
@@ -38,7 +38,7 @@ style: hr:after{content:"Cliquer sur les cercles pour afficher la suite"; positi
 - Reconnaissance seulement de l'importance des valeurs épistémiques (simplicité, pouvoir explicatif...) :  _cf._ <cite>Isaac Levi, “Must the Scientist Make Value Judgment ?“</cite> [:link:](https://philpapers.org/rec/LEVMTS)
 - Retour à une forme de positivisme
 
-## \\ La philosophie \\féministe \\des sciences <!--fold-->
+## \\ :speaking_head_in_silhouette: La philosophie \\féministe \\des sciences <!--fold-->
 
 ### Des **études de cas** \\ vont établir l'existence de \\ biais sexistes en science <!--fold-->
 - Exemples
