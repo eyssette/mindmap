@@ -20,20 +20,22 @@ style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la sui
 ### **Contexte historique :** \\ domination du \\positivisme  <!--fold-->
 
 - :mag_right:
-	- D'après le positivisme, les sciences visent à dire ce qu'est le réel
-	- Seuls les énoncés empiriques (vérifiables par l'expérience) peuvent prétendre dire ce qu'est le réel
-	- Les jugements de valeur ne sont pas des énoncés empiriques 
+	- D'après le positivisme :
+(1) Les sciences visent à dire ce qu'est le réel
+	- (2) Seuls les énoncés empiriques (vérifiables par l'expérience) peuvent prétendre dire ce qu'est le réel
+	- (3) Les jugements de valeur ne sont pas des énoncés empiriques 
 - :arrow_right:
-	- Par conséquent : les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
+	- Par conséquent :
+Les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
 	- L'évaluation d'une théorie ne peut se faire qu'en fonction des faits
 ### **Premières \\ contestations** \\ du positivisme \\ à partir de 1953 <!--fold-->
 
 - Un article de Richard Rudner  (<cite>“The Scientist Qua Scientist Makes Value Judgments”</cite> [:link:](https://philpapers.org/rec/RUDTSQ)) reconnu comme  fondateur (_cf._  <cite>Ernan McMullin, “Values in Science”</cite>  [:link:](https://philpapers.org/rec/MCMVIS-2) ; <cite>Heather Douglas, _Science, Policy and the Value-Free Ideal_</cite>  [:link:](https://philpapers.org/rec/DOUSPA-2))
-- Quatre formes \\ possibles d'influence \\ vont être identifiées \\ <aside>(<cite>Nagel, _The Structure of science_</cite> [:link:](https://philpapers.org/rec/NAGTSO-3)</aside>
-	- :one: La sélection des problèmes
-	- :two: La détermination du \\ contenu des conclusions
-	- :three: L'identification des faits
-	- :four: L'évaluation des\\  preuves empiriques
+- Quatre formes \\ d'influence possible \\ des valeurs en science \\ vont être identifiées \\ <aside>(<cite>Nagel, _The Structure of science_</cite> [:link:](https://philpapers.org/rec/NAGTSO-3)</aside>
+	- :one: Dans la sélection des problèmes
+	- :two: Dans la détermination du \\ contenu des conclusions
+	- :three: Dans l'identification des faits
+	- :four: Dans l'évaluation des\\  preuves empiriques
 ### Une approche \\ **rapidement \\ contestée** <!--fold-->
 - Reconnaissance seulement de l'importance des valeurs épistémiques (simplicité, pouvoir explicatif...) :  _cf._ <cite>Isaac Levi, “Must the Scientist Make Value Judgment ?“</cite> [:link:](https://philpapers.org/rec/LEVMTS)
 - Retour à une forme de positivisme
