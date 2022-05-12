@@ -18,7 +18,7 @@ maxWidth: 380
 
 ## \\Avant la philosophie \\ féministe des sciences : \\ une première reconnaissance \\ du rôle que jouent les \\  valeurs en science
 
-### **Contexte historique :** \\ domination du \\positivisme
+### **Contexte historique :** \\ domination du \\positivisme  <!--fold-->
 
 - :mag_right:
 	- D'après le positivisme, les sciences visent à dire ce qu'est le réel
@@ -28,7 +28,7 @@ maxWidth: 380
 	- Par conséquent : les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
 	- L'évaluation d'une théorie ne peut se faire qu'en fonction des faits
 
-### **Premières contestations** \\ du positivisme en 1953 
+### **Premières \\ contestations** \\ du positivisme \\ à partir de 1953 <!--fold-->
 
 - Un article de \\ Richard Rudner \\ <aside>(<cite>“The Scientist Qua Scientist \\ Makes Value Judgments”</cite>)</aside>
 	- Un article reconnu comme \\  fondateur (_cf._ <cite>Ernan McMullin, \\ “Values in Science”</cite> ; <cite>Heather \\ Douglas, _Science, Policy and \\ the Value-Free Ideal_</cite>)
@@ -39,7 +39,7 @@ maxWidth: 380
 	- :four: L'évaluation des\\  preuves empiriques
 
 ### Une approche \\ **rapidement \\ contestée** <!--fold-->
-- Reconnaissance seulement de l'importance des valeurs épistémiques (simplicité, pouvoir explicatif, ...) : \\ _cf._ <cite>Isaac Levi, “Must the Scientist Make Value Judgment ?“</cite>
+- Reconnaissance seulement de l'importance des valeurs épistémiques (simplicité, pouvoir explicatif, ...) :  _cf._ <cite>Isaac Levi, “Must the Scientist Make Value Judgment ?“</cite>
 - Retour à une forme de positivisme
 
 ## \\ La philosophie \\féministe \\des sciences
@@ -48,10 +48,12 @@ maxWidth: 380
 
 - Exemple des discours scientifiques du XIX^e^ sur l'infériorité cognitive des femmes
 - En primatologie, des scientifiques féministes élargissent la base observationnelle et portent leur attention sur les femelles, dont le rôle social avait été négligé
-- Le modèle andro-centrique de l'« homme-chasseur » dans les théories de l'évolution humaine, qui a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
+- Le modèle andro-centrique de l'« homme-chasseur » a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
 
 ### **Quelle signification** faut-il \\ donner à ce type de cas ? \\ **Trois options** possibles <!--fold-->
 
-- :one: Disqualification de ces cas au motif qu'il s'agit de cas de mauvaise science
-- :two: Remise en cause générale, à partir de ce type de cas, de la capacité même de la science à produire des résultats neutres, sans biais sexistes
-- :three: Interrogation sur la manière dont l'enquête scientifique doit être organisée afin de maximiser l'objectivité des résultats produits, en prenant en compte l'existence des biais sexistes.
+- :one: Disqualification de ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
+- :two: Remise en cause générale de la capacité même de la science à produire des résultats neutres, sans biais sexistes
+- :three: Reconnaissance du caractère structurel des biais sexistes.
+
+### Un exemple  
