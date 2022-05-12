@@ -1,9 +1,9 @@
 ---
 maxWidth: 420
-style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la suite"; position:absolute; top:150px; left:13px; font-weight:normal; font-family:monospace; font-size:11px; width:440px;}
+style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la suite"; position:absolute; top:150px; left:13px; font-weight:normal; font-family:monospace; font-size:11px; width:240px;}
 ---
 
-# Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en  science : contributions de la philosophie  féministe des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
+# Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en  science : \\ contributions de la philosophie \\ féministe des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
 
 ## :boom: La philosophie \\ féministe des \\  sciences :  une \\   contradiction ? <!--fold-->
 
@@ -54,7 +54,7 @@ Les jugements de valeur n'ont pas leur place dans la description ou l'explicatio
 ### Une autre option : \\ la **critique de l'idéal \\ de la neutralité** <!--fold-->
 - Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan : il ne s'agit pas seulement de cas à part
 - L'idéal de la neutralité méthodologique est remis en cause car il est insuffisant et ne permet pas de maximiser l'objectivité
-### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de Longino <!--fold-->
+### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de **Longino** <!--fold-->
 - L'objectivité ne repose pas sur \\ la neutralité méthodologique, \\ mais sur un processus social de \\discussion critique, qui doit \\respecter certaines normes. <!--fold-->
 	- :one:  Il doit exister des forums où les méthodes et les résultats puissent être publiquement débattus
 	- :two:  Il doit y avoir une réceptivité à la critique
