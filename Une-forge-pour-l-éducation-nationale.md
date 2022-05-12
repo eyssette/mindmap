@@ -1,5 +1,4 @@
 ---
-maxWidth: 285
 style: img {height:18px!important; width:18px!important; vertical-align:top; margin-right:0.3em; display:inline-block!important} .hide {background-color:white}
 ---
 
