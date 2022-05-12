@@ -3,7 +3,7 @@ maxWidth: 285
 style: img {height:18px!important; vertical-align:top; margin-right:0.3em;} 
 ---
 
-# Une forge pour l'Éducation nationale ?
+# Une forge pour \\ l'Éducation nationale ?
 
 ## :one: Enjeux \\ et valeurs
 
