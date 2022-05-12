@@ -52,8 +52,8 @@ maxWidth: 420
 - Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan : il ne s'agit pas seulement de cas à part
 - L'idéal de la neutralité méthodologique est remis en cause car il est insuffisant et ne permet pas de maximiser l'objectivité
 ### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de Longino <!--fold-->
-- L'objectivité ne repose pas sur \\la neutralité méthodologique, \\mais un processus social de \\discussion critique, qui doit \\respecter certaines normes. <!--fold-->
-	- :one:  il doit exister des forums où les méthodes, raisonnements, preuves observationelles, etc., puissent être publiquement débattus
-	- :two: il doit exister une réceptivité à la critique
-	- :three: l doit exister des standards publiquement reconnus par référence auxquels les théories, les hypothèses et les données sont évaluées
-	- :four: il doit y avoir égalité d’autorité intellectuelle au sein de cette communauténce”
+- L'objectivité ne repose pas sur \\ la neutralité méthodologique, \\ mais sur un processus social de \\discussion critique, qui doit \\respecter certaines normes. <!--fold-->
+	- :one:  Il doit exister des forums où les méthodes et les résultats puissent être publiquement débattus
+	- :two: Il doit y avoir une réceptivité à la critique
+	- :three: La critique doit se fonder sur des normes publiques d'acceptabilité, qui reposent sur des valeurs épistémiques et des valeurs non-épistémiques, elles-mêmes soumises à la critique entre pairs au sein des communautés scientifiques
+	- :four: Il doit y avoir égalité d’autorité intellectuelle au sein de cette communauté
