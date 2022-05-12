@@ -1,6 +1,6 @@
 ---
 maxWidth: 420
-style: hr:after{content:"Cliquer sur les cercles pour afficher la suite"; position:absolute; top:150px; left:40px; font-weight:normal; font-family:monospace; font-size:12px; width:340px;}
+style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la suite"; position:absolute; top:150px; left:13px; font-weight:normal; font-family:monospace; font-size:11px; width:440px;}
 ---
 
 # Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en  science : contributions de la philosophie  féministe des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
