@@ -31,7 +31,7 @@ Les jugements de valeur n'ont pas leur place dans la description ou l'explicatio
 ### **Premières \\ contestations** \\ du positivisme \\ à partir de 1953 <!--fold-->
 
 - Un article de Richard Rudner  (<cite>“The Scientist Qua Scientist Makes Value Judgments”</cite> [:link:](https://philpapers.org/rec/RUDTSQ)) reconnu comme  fondateur (_cf._  <cite>Ernan McMullin, “Values in Science”</cite>  [:link:](https://philpapers.org/rec/MCMVIS-2) ; <cite>Heather Douglas, _Science, Policy and the Value-Free Ideal_</cite>  [:link:](https://philpapers.org/rec/DOUSPA-2))
-- Quatre formes \\ d'influence possible \\ des valeurs en science \\ vont être identifiées \\ <aside>(<cite>Nagel, _The Structure of science_</cite> [:link:](https://philpapers.org/rec/NAGTSO-3)</aside>
+- Quatre formes \\ d'influence possible \\ des valeurs en science \\ vont être identifiées \\ <aside>(<cite>Nagel, _The Structure of science_)</cite> [:link:](https://philpapers.org/rec/NAGTSO-3)</aside>
 	- :one:  Dans la sélection des problèmes
 	- :two:  Dans la détermination du \\ contenu des conclusions
 	- :three:  Dans l'identification des faits
