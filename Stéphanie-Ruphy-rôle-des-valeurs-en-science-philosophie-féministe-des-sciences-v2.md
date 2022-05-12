@@ -50,10 +50,10 @@ maxWidth: 380
 - En primatologie, des scientifiques féministes élargissent la base observationnelle et portent leur attention sur les femelles, dont le rôle social avait été négligé
 - Le modèle andro-centrique de l'« homme-chasseur » a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
 
-### **Quelle signification** faut-il \\ donner à ce type de cas ? \\ **Trois options** possibles <!--fold-->
+### **Quelle signification** faut-il \\ donner à ce type de cas ? \\ **Trois options** possibles
 
-- :one: Disqualification de ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
-- :two: Remise en cause générale de la capacité même de la science à produire des résultats neutres, sans biais sexistes
-- :three: Reconnaissance du caractère structurel des biais sexistes.
+- ++Option 1++ : Disqualification de ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
+- ++Option 2++ : Remise en cause générale de la capacité même de la science à produire des résultats neutres, sans biais sexistes
+- ++Option 3++ : Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan ; critique de l'idéal de la neutralité méthodologique au profit de la mise en place de normes sociales 
 
-### Un exemple  
+### 
