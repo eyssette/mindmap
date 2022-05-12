@@ -32,10 +32,10 @@ Les jugements de valeur n'ont pas leur place dans la description ou l'explicatio
 
 - Un article de Richard Rudner  (<cite>“The Scientist Qua Scientist Makes Value Judgments”</cite> [:link:](https://philpapers.org/rec/RUDTSQ)) reconnu comme  fondateur (_cf._  <cite>Ernan McMullin, “Values in Science”</cite>  [:link:](https://philpapers.org/rec/MCMVIS-2) ; <cite>Heather Douglas, _Science, Policy and the Value-Free Ideal_</cite>  [:link:](https://philpapers.org/rec/DOUSPA-2))
 - Quatre formes \\ d'influence possible \\ des valeurs en science \\ vont être identifiées \\ <aside>(<cite>Nagel, _The Structure of science_</cite> [:link:](https://philpapers.org/rec/NAGTSO-3)</aside>
-	- :one: Dans la sélection des problèmes
-	- :two: Dans la détermination du \\ contenu des conclusions
-	- :three: Dans l'identification des faits
-	- :four: Dans l'évaluation des\\  preuves empiriques
+	- :one:  Dans la sélection des problèmes
+	- :two:  Dans la détermination du \\ contenu des conclusions
+	- :three:  Dans l'identification des faits
+	- :four:  Dans l'évaluation des \\  preuves empiriques
 ### Une approche \\ **rapidement \\ contestée** <!--fold-->
 - Reconnaissance seulement de l'importance des valeurs épistémiques (simplicité, pouvoir explicatif...) :  _cf._ <cite>Isaac Levi, “Must the Scientist Make Value Judgment ?“</cite> [:link:](https://philpapers.org/rec/LEVMTS)
 - Retour à une forme de positivisme
@@ -46,7 +46,7 @@ Les jugements de valeur n'ont pas leur place dans la description ou l'explicatio
 - Exemples
 	- Les discours scientifiques du XIX^e^ sur l'infériorité cognitive des femmes
 	- En primatologie, des scientifiques féministes élargissent la base observationnelle et portent leur attention sur les femelles, dont le rôle social avait été négligé
-	- Le modèle andro-centrique de l'« homme-chasseur » a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
+	- Le modèle andro-centrique de l'"homme-chasseur" a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
 - Mais quelle \\ signification faut-il \\ donner à ce type de cas ? 
 ### Les approches qui jugent \\ ces cas d'après **l'idéal \\ de la neutralité** <!--fold-->
 - Soit on disqualifie ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
@@ -57,6 +57,6 @@ Les jugements de valeur n'ont pas leur place dans la description ou l'explicatio
 ### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de Longino <!--fold-->
 - L'objectivité ne repose pas sur \\ la neutralité méthodologique, \\ mais sur un processus social de \\discussion critique, qui doit \\respecter certaines normes. <!--fold-->
 	- :one:  Il doit exister des forums où les méthodes et les résultats puissent être publiquement débattus
-	- :two: Il doit y avoir une réceptivité à la critique
-	- :three: La critique doit se fonder sur des normes publiques d'acceptabilité, qui reposent sur des valeurs épistémiques et des valeurs non-épistémiques, elles-mêmes soumises à la critique entre pairs au sein des communautés scientifiques
-	- :four: Il doit y avoir égalité d’autorité intellectuelle au sein de cette communauté
+	- :two:  Il doit y avoir une réceptivité à la critique
+	- :three:  La critique doit se fonder sur des normes publiques d'acceptabilité, qui reposent sur des valeurs épistémiques et des valeurs non-épistémiques, elles-mêmes soumises à la critique entre pairs au sein des communautés scientifiques
+	- :four:  Il doit y avoir égalité d’autorité intellectuelle au sein de cette communauté
