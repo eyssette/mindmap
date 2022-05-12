@@ -26,8 +26,8 @@ style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la sui
 	- (3) Les jugements de valeur ne sont pas des énoncés empiriques 
 - :arrow_right:
 	- Par conséquent :
-Les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
-	- L'évaluation d'une théorie ne peut se faire qu'en fonction des faits
+(1) Les jugements de valeur n'ont pas leur place dans la description ou l'explication des faits
+	- (2) L'évaluation d'une théorie ne peut se faire qu'en fonction des faits
 ### **Premières \\ contestations** \\ du positivisme \\ à partir de 1953 
 
 - Un article de Richard Rudner  (<cite>“The Scientist Qua Scientist Makes Value Judgments”</cite> [:link:](https://philpapers.org/rec/RUDTSQ)) reconnu comme  fondateur (_cf._  <cite>Ernan McMullin, “Values in Science”</cite>  [:link:](https://philpapers.org/rec/MCMVIS-2) ; <cite>Heather Douglas, _Science, Policy and the Value-Free Ideal_</cite>  [:link:](https://philpapers.org/rec/DOUSPA-2))
