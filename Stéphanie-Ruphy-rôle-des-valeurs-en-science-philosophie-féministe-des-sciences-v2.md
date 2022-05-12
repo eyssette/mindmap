@@ -2,7 +2,7 @@
 maxWidth: 380
 ---
 
-# Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en science : contributions de la philosophie  féministe des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
+# Stéphanie Ruphy <hr> <cite>« Rôle des valeurs en \\ science : contributions \\de la philosophie  féministe \\des sciences »</cite>  [:link:](https://www.cairn.info/load_pdf.php?download=1&ID_ARTICLE=ECOPO_051_0041)
 
 ## La philosophie \\ féministe des \\  sciences :  une \\   contradiction ?
 
@@ -62,7 +62,7 @@ maxWidth: 380
 - Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan : il ne s'agit pas seulement de cas à part
 - L'idéal de la neutralité méthodologique est remis en cause car il est insuffisant et ne permet pas de maximiser l'objectivité
 
-### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de Longino
+### Un **exemple** qui \\ s'inscrit dans \\ cette perspective : \\ l'approche de Longino <!--fold-->
 
 - L'objectivité ne repose pas sur la neutralité méthodologique, mais un processus social de discussion critique, qui doit respecter certaines normes. <!--fold-->
 	- :one:  il doit exister des forums où les méthodes, raisonnements, preuves observationelles, etc., puissent être publiquement débattus
