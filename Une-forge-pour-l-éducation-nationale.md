@@ -1,17 +1,15 @@
 ---
 maxWidth: 285
-style: img {height:18px!important; vertical-align:top; margin-right:0.3em;} 
+style: img {height:18px!important; vertical-align:top; margin-right:0.3em; display:inline-block!important} .hide {background-color:white}
 ---
 
-# Une forge pour \\ l'Éducation nationale ?
+# Une forge pour \\ l'Éducation \\ nationale ?
 
 ## :one: Enjeux \\ et valeurs
 
-- Collaboration
-- Pérennité et protection des données
-- Format écologique
-- Format économique
-- Indépendance
+- Collaboration & réutilisabilité
+- Indépendance, pérennité \\ & protection des données
+- Format écologique \\ & économique
 
 ## \\ :two: Pour quels \\ usages ?
 
@@ -20,4 +18,4 @@ style: img {height:18px!important; vertical-align:top; margin-right:0.3em;}
 - \\ ![](https://www.svgrepo.com/show/131944/website-window.svg) Sites web
 - \\ ![](https://www.svgrepo.com/show/154143/photo-slideshow.svg) Diaporamas
 - \\ ![](https://www.svgrepo.com/show/42092/scheme.svg)  Cartes mentales,  schémas
-- \\ ![](https://www.svgrepo.com/show/407819/woman-climbing-dark-skin-tone.svg) Exercices
+- \\ ![](https://www.svgrepo.com/show/145572/dumbbell-exercise.svg) Exercices
