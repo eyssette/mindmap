@@ -44,16 +44,22 @@ maxWidth: 380
 
 ## \\ La philosophie \\féministe \\des sciences
 
-### Des **études de cas** \\ vont établir l'existence de \\ biais sexistes en science <!--fold-->
+### Des **études de cas** \\ vont établir l'existence de \\ biais sexistes en science
 
-- Exemple des discours scientifiques du XIX^e^ sur l'infériorité cognitive des femmes
-- En primatologie, des scientifiques féministes élargissent la base observationnelle et portent leur attention sur les femelles, dont le rôle social avait été négligé
-- Le modèle andro-centrique de l'« homme-chasseur » a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
+- Exemples
+	- Les discours scientifiques du XIX^e^ sur l'infériorité cognitive des femmes
+	- En primatologie, des scientifiques féministes élargissent la base observationnelle et portent leur attention sur les femelles, dont le rôle social avait été négligé
+	- Le modèle andro-centrique de l'« homme-chasseur » a conduit à négliger l'importance de la cueillette et des premières formes d'agriculture dans l'évolution humaine
+- Mais quelle \\signification faut-il \\donner à ce type de cas ? 
 
-### **Quelle signification** faut-il \\ donner à ce type de cas ? \\ **Trois options** possibles
+### Les approches qui jugent \\ ces cas d'après **l'idéal \\ de la neutralité**
 
-- ++Option 1++ : Disqualification de ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
-- ++Option 2++ : Remise en cause générale de la capacité même de la science à produire des résultats neutres, sans biais sexistes
-- ++Option 3++ : Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan ; critique de l'idéal de la neutralité méthodologique au profit de la mise en place de normes sociales 
+- Soit on disqualifie ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
+- Soit on remet alors en cause de manière générale la capacité même de la science à produire des résultats neutres, sans biais sexistes
 
-### 
+### Une autre option : \\ la **critique de l'idéal \\ de la neutralité**
+
+- Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan : il ne s'agit pas seulement de cas à part
+- L'idéal de la neutralité méthodologique est remise en cause car il est insuffisant et ne permet pas de maximiser l'objectivité
+
+### Un **exemple** qui \\ s'inscrit dans \\ cette perspective
