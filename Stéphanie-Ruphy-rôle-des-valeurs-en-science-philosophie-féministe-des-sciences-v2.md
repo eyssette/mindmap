@@ -50,7 +50,7 @@ style: hr:after{content:"Cliquer sur les cercles pour afficher ou masquer la sui
 - Mais quelle \\ signification faut-il \\ donner à ce type de cas ? 
 ### Les approches qui jugent \\ ces cas d'après **l'idéal \\ de la neutralité** <!--fold-->
 - Soit on disqualifie ces cas au motif qu'ils relèvent simplement d'une forme de mauvaise science : une bonne méthodologie scientifique suffirait à éviter ce type de biais
-- Soit on remet alors en cause de manière générale la capacité même de la science à produire des résultats neutres, sans biais sexistes
+- Soit on remet en cause de manière générale la capacité de la science à produire des résultats neutres, sans biais sexistes
 ### Une autre option : \\ la **critique de l'idéal \\ de la neutralité** <!--fold-->
 - Reconnaissance du caractère structurel des biais liés à des croyances d'arrière-plan : il ne s'agit pas seulement de cas à part
 - L'idéal de la neutralité méthodologique est remis en cause car il est insuffisant et ne permet pas de maximiser l'objectivité
