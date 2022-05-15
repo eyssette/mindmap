@@ -1,26 +1,24 @@
 ---
-maxWidth: 200
+maxWidth: 240
+style: aside{margin:1em 0}
 ---
 
-# Le self-tracking : une dégradation de l'expérience sportive
+# Le _self-tracking_ : \\<aside>une dégradation de \\ l'expérience sportive</aside>
 
-## Un changement dans le type de motivations à faire du sport
+## :one:  Une transformation \\ de la finalité de la \\  pratique sportive
 
-- Le self-tracking focalise l'individu sur le résultat final et sur la performance
-- Il détourne l'individu du processus même de l'activité et du plaisir inhérent à la pratique
-- :arrow_right: Passage d'une motivation intrinsèque à une motivation extrinsèque
+- Au lieu d'être focalisé sur le **processus** même de l'activité \\ et le **plaisir** inhérent à la pratique (motivation **intrinsèque**) …
 
-## Un changement dans la temporalité de l'expérience sportive
+- … l'individu se focalise sur le **résultat** final et sur la **performance** (motivation **extrinsèque**)
 
-- Au lieu d'être présent et immergé corporellement dans son expérience ici, maintenant …
-- … l'individu a sans cesse la tentation de se projeter vers un après : la fin de la séance, où il pourra mesurer le résultat obtenu
+## :two:  Une temporalité différente
 
-## Une perturbation de l'attention
+- Au lieu d'être **présent** et immergé corporellement dans son expérience **ici, maintenant** …
 
-- Le simple fait de lancer un enregistrement numérique de sa pratique incite à consulter l'état d'avancement de son activité
-- L'équipement numérique peut alors déstabiliser l'attention et conduire à une surcharge cognitive
+- … l'individu a sans cesse la tentation de **se projeter vers un après** : la fin de la séance, où il pourra mesurer le résultat obtenu
 
-## Un mécanisme de déconnexion vis-à-vis de soi-même
+## :three:  Un mécanisme de déconnexion
 
-- Le corps est vécu à la troisième personne : objectivé et piloté rationnellement, plutôt que vécu intimement
-- Le self-tracking ne permet pas un engagement total et une immersion dans l'activité
+- Au lieu d'être **pleinement engagé** dans une activité qui est **vécue intimement** et sous la forme d'une immersion complète …
+
+- … l'individu vit son corps **à la troisième personne** : le corps est **objectivé** et piloté rationnellement par le biais d'un équipement numérique qui **détourne l'attention**
