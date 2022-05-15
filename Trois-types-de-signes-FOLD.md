@@ -15,7 +15,7 @@ style: img {height:100px; width:110px} img:nth-child(1) {width:130px}
 
 - \\ \\<b>Icônes</b>
 
-- Lien de similarité, de ressemblance
+- Lien de similarité, \\ de ressemblance
 
 ## \\ ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/France_road_sign_AB6.svg/2560px-France_road_sign_AB6.svg.png) <!--fold-->
 
