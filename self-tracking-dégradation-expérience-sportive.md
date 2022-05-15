@@ -11,13 +11,13 @@ style: aside{margin:1em 0}
 
 - … l'individu se focalise sur le **résultat** final et sur la **performance** (motivation **extrinsèque**)
 
-## :two:  Une temporalité différente
+## :two:  Une temporalité \\ différente
 
 - Au lieu d'être **présent** et immergé corporellement dans son expérience **ici, maintenant** …
 
 - … l'individu a sans cesse la tentation de **se projeter vers un après** : la fin de la séance, où il pourra mesurer le résultat obtenu
 
-## :three:  Un mécanisme de déconnexion
+## :three:  Un mécanisme \\ de déconnexion
 
 - Au lieu d'être **pleinement engagé** dans une activité qui est **vécue intimement** et sous la forme d'une immersion complète …
 
