@@ -1,6 +1,6 @@
 ---
 maxWidth: 220
-style: img {height:100px;}
+style: img {height:100px; width:110px} img:nth-child(1) {width:130px}
 ---
 
 # Trois types \\ de signes
