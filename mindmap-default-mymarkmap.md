@@ -18,7 +18,7 @@ maxWidth: 600
   - `### Niveau 3`, \\  `#### Niveau 4` \\ … ensuite
   - Ou bien, on fait une liste à puces \\ `- Niveau 3` \\ 　`  - Niveau 4` \\ `- Niveau 3` \\ (on ajoute 2 espaces avant  \\ pour  passer à un autre niveau)
 - Clic sur 👓   pour **cacher** la \\  fenêtre d'édition et **voir**  \\ seulement la carte mentale \\ (_raccourci clavier : `Escape`_)
-- Clic sur 💾 pour **enregistrer**  \\ la carte au format _svg_ \\ (_raccourci clavier : `s`_)
+- Clic sur 💾 pour **enregistrer**  \\ la carte au format _svg_ [image fixe] \\ (_raccourci clavier : `s`_) \\ Clic sur 🌐 pour **enregistrer** au \\format HTML [interactivité possible] \\(_raccourci clavier : `h`_) 
 - Clic sur 🔗 pour copier un **lien** \\  de **partage** de la carte mentale \\ dans le presse-papier \\ (_raccourci clavier : `l`_)
 - Clic sur les **cercles** à l'intersection \\ des différentes branches pour \\ **afficher ou masquer la suite**
 
@@ -34,10 +34,12 @@ maxWidth: 600
 - `![](URL)` : pour insérer une image
 	- `![h-25](URL)` : pour spécifier la hauteur  \\de l'image (de h-25, h-50 … à h-200)
 - ``` `code` ``` : Pour insérer du `code` 
+- `==texte==`: Pour surligner du ==texte==
+- `++texte++`: Pour souligner du ++texte++
 
 #### **HTML**
 
-- `<br>` pour forcer le passage à \\ la ligne ou bien le raccourci : `\\` 
+- `<br>` ou `\\` pour forcer le passage à la ligne
 - `<span style="...">texte</span>` \\ pour changer le style d'un élément
   
 #### **Autres \\ balises**
@@ -51,7 +53,11 @@ maxWidth: 600
 #### **En-tête** \\ (YAML)
 
 - Pour spécifier la largeur \\ maximale d'une branche
-	- `---` \\ `maxWidth: 300` \\ `---`
+- Pour ajouter des styles CSS spécifiques
+- Pour ajouter un titre
+- Exemple :
+  -  `---` \\ `maxWidth: 300` \\ `style: strong{color:red}` \\ `title: Titre de la carte` \\ `---`
+
 
 ### Possibilité d'utiliser un \\ **fichier externe**
 
