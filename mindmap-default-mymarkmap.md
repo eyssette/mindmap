@@ -53,7 +53,7 @@ maxWidth: 600
 #### **En-tête** \\ (YAML)
 
 - Pour spécifier la largeur \\ maximale d'une branche
-- Pour ajouter des styles CSS spécifiques
+- Pour ajouter des styles \\CSS spécifiques
 - Pour ajouter un titre
 - Exemple :
   -  `---` \\ `maxWidth: 300` \\ `style: strong{color:red}` \\ `title: Titre de la carte` \\ `---`
