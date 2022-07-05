@@ -1,6 +1,7 @@
 ---
 maxWidth: 300
 style: g[data-depth="4"] div {font-weight:400} cite{font-style:italic} g[data-depth="6"] div, g[data-depth="8"] div {font-size:0.96em} aside {display:inline-block; margin-top:0.3em} aside:after{content:"Cliquer sur les cercles pleins pour afficher des exemples de films"; display:block; position:absolute; top:7.3em; font-size:13px; color:darkgreen}
+title: Les monstres au cinéma, un essai de typologie
 ---
 
 # Les monstres \\au cinéma \\<aside>Un essai de typologie</aside>
