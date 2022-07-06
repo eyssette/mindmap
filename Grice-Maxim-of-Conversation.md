@@ -1,6 +1,7 @@
 ---
 maxWidth: 250
 style: g[data-depth="4"] span {font-size:0.8em; color:#333} g[data-path="1.2.3"] div {position:absolute; top:0.9em}
+title: Grice's Maxims of Conversation
 ---
 
 # 🗣️ Grice's Maxims \\of Conversation
