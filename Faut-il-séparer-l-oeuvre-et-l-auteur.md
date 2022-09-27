@@ -5,11 +5,11 @@ style: g[data-depth="1"] span span {font-weight:normal; display:inline-block; ma
 
 # Quelle attitude faut-il avoir \\face à l'œuvre d'auteurs \\ moralement condamnables ? \\<span>Peut-on séparer l'œuvre et l'auteur ? : \\quelques questions que l'on \\peut se poser au préalable</span>
 
-## :warning:  <!--fold-->
+## :warning:  
 - <span class="small">Le but des distinctions proposées ici n'est pas de régler la question et de justifier \\une réponse en particulier. L'objectif est de montrer que cette question renvoie \\ à une multiplicité de situations possibles</span>
 - <span class="small">Face à cette diversité, on pourrait justifier d'adopter la même attitude pour \\toutes ces situations, ou de différencier son jugement. Ce n'est pas le sujet ici.</span>
 
-## \\\\:one: À propos des faits \\ reprochés à l'auteur <!--fold-->
+## \\\\:one: À propos des faits \\ reprochés à l'auteur 
 
 - \\ \\ Quelle est la ==gravité== \\ des faits en question ?
   - \\ \\ Même s'il est difficile de faire des hiérarchies, on peut tout de même distinguer \\ les auteurs qui ont commis des actes criminels et les auteurs qui ont tenu des \\ propos ou soutenus des causes ou défendus des personnes problématiques
@@ -17,7 +17,7 @@ style: g[data-depth="1"] span span {font-weight:normal; display:inline-block; ma
   - Cette question se pose essentiellement dans le cas où les faits reprochés sont des propos et non des actes : ces propos sont-ils révélateurs des idées profondes \\ de l'auteur ou de ce qu'il est ? Sont-ils seulement l'expression d'un contexte particulier ?
 - <span class="small">:warning:  Généralement, la question de la séparation de l'œuvre et de l'auteur se pose pour des faits graves et qui ne sont pas de simples erreurs accidentelles. L'objection selon laquelle “personne n'est parfait” n'a pas de sens ici. La démarche de questionnement des œuvres ne peut pas être réduite à une prétendue recherche de la sainteté morale.</span>
 
-## :two: À propos du \\ rapport entre l'auteur\\  et son œuvre <!--fold-->
+## :two: À propos du \\ rapport entre l'auteur\\  et son œuvre 
 
 - L'auteur est-il \\ ==directement présent== \\dans l'œuvre ?
   - \\\\  Dans certains cas l'auteur est directement présent dans l'œuvre (musicien en concert, vidéaste qui se filme), dans d'autres cas, on ne voit pas directement l'auteur dans l'œuvre elle-même.
@@ -31,7 +31,7 @@ style: g[data-depth="1"] span span {font-weight:normal; display:inline-block; ma
    - Y a-t-il parmi les aspects intéressants et importants de l'œuvre la possibilité de trouver dans l'œuvre elle-même les ressources pour critiquer les défauts moraux de l'auteur ?
 - <span class="small">\\:warning: On ne peut pas affirmer comme une évidence que l'œuvre peut toujours être séparée de l'auteur : l'auteur est parfois présent directement dans l'œuvre, et il y a parfois un lien étroit entre l'œuvre et les actes ou propos problématiques de l'auteur </span>
 
-## :three: À propos du \\ rapport entre \\ nous et l'œuvre <!--fold-->
+## :three: À propos du \\ rapport entre \\ nous et l'œuvre 
 
 - Avons-nous un ==rapport \\ distancié== avec l'auteur ?
      - \\ \\ L'auteur est-il vivant ou mort ?
