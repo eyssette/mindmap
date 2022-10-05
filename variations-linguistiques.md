@@ -5,17 +5,22 @@ style: span span {font-weight:normal; display:inline-block}
 
 # Variations linguistiques
 
-## :one: Une \\hiérarchisation \\ des variantes
+## Toutes les \\ variantes sont-elles équivalentes ? 
 
-### Variantes \\ **stigmatisées**
-### Variantes \\ **valorisées**
+### Non, il y a des variantes **stigmatisées** 
+### et des variantes \\ **valorisées**
 
-## :two: Diffférentes \\formes \\ de variantes
+## Qu'est-ce qui \\ peut varier ? 
+
+### La prononciation : **variation phonique**
+### Le choix des mots et des expressions : **variation lexicale**
+### La structure de la phrase : **variation syntaxique**
+
+## Selon quels paramètres ? 
 
 ### **Variation diachronique** <span>(dans le temps)</span>
 
-### **Variation diatopique** <span>(selon le lieu)
-</span>
+### **Variation diatopique** <span>(selon le lieu)</span>
 
 ### **Variation diastratique** <span>(selon le groupe social)</span>
 

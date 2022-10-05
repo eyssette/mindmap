@@ -5,12 +5,18 @@ style: span span {font-weight:normal; display:inline-block}
 
 # Variations linguistiques
 
-## :one: Une \\hiérarchisation \\ des variantes <!--fold-->
+## Toutes les \\ variantes sont-elles équivalentes ? <!--fold-->
 
-### Variantes \\ **stigmatisées**
-### Variantes \\ **valorisées**
+### Non, il y a des variantes **stigmatisées** 
+### et des variantes \\ **valorisées**
 
-## :two: Différentes \\formes de \\ variantes <!--fold-->
+## Qu'est-ce qui \\ peut varier ? <!--fold-->
+
+### {{La prononciation : **variation phonique**}}
+### {{Le choix des mots et des expressions : **variation lexicale**}}
+### {{La structure de la phrase : **variation syntaxique**}}
+
+## Selon quels paramètres ? <!--fold-->
 
 ### {{**Variation diachronique** <span>(dans le temps)</span>}}
 
