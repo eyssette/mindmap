@@ -1,13 +1,17 @@
+---
+style: img {height:15px!important}
+---
+
 # Mastodon, \\ plutôt que Twitter
 
 ## Pourquoi ?
-- Un logiciel **libre** et **_open-source_** \\ sans **publicité** et sans **_tracking_**
-- Des serveurs \\**décentralisés**,  \\ mais **interconnectés**
+- ![](https://www.svgrepo.com/show/354046/mastodon-icon.svg) Un logiciel **libre** et **_open-source_** \\ sans **publicité** et sans **_tracking_**
+- ![](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Fediverse_logo_proposal.svg/langfr-260px-Fediverse_logo_proposal.svg.png) Des serveurs \\**décentralisés**,  \\ mais **interconnectés**
   - Choix possible d'un serveur \\ plus cohérent avec ses valeurs, \\ ses centres d'intérêt
   - Possibilité d'accéder cependant \\ aux comptes sur les autres serveurs
   - Possibilité de migrer sans difficultés \\ vers un autre serveur ou d'utiliser une \\ autre application Pleroma, Misskey
   - Interaction possible avec d'autres\\ applications : Peertube, PixelFed …
-- \\ Des communautés \\**plus respecteuses**
+- \\ ![](https://www.svgrepo.com/show/70956/community.svg) Des communautés \\**plus respecteuses**
 
 
 ## Comment ?
@@ -17,7 +21,7 @@
   - Bien regarder les conditions d'utilisation :\\ chaque serveur a ses règles spécifiques
 - :two: Créer son **profil**
   - Faire une présentation \\ avec le hashtag _#introduction_
-  - Mettre d'autres hashtags \\ pour pouvoir être suivi·e \\ par d'autres comptes
+  - Mettre d'autres hashtags \\ pour pouvoir être suivi·e \\ par d'autres comptes
 - :three: Suivre d'autres **comptes**
   - Trouver des comptes avec \\ les mêmes centres d'intérêt
     - Faire une recherche \\ avec un hashtag
