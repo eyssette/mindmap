@@ -11,7 +11,7 @@ style: img {height:15px!important}
   - Possibilité d'accéder cependant \\ aux comptes sur les autres serveurs
   - Possibilité de migrer sans difficultés \\ vers un autre serveur ou d'utiliser une \\ autre application Pleroma, Misskey
   - Interaction possible avec d'autres\\ applications : Peertube, PixelFed …
-- \\ ![](https://www.svgrepo.com/show/70956/community.svg) Des communautés \\**plus respecteuses**
+- \\ ![](https://www.svgrepo.com/show/70956/community.svg) Des communautés \\**plus respectueuses**
 
 
 ## Comment ?
