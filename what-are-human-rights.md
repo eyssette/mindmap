@@ -8,7 +8,7 @@ title: What are human rights?
 
 ## :one: Universal rights
 
-### Wich means \\ that …
+### Which means \\ that …
 
 - All living humans – or perhaps all living persons – have human rights. One does not have to be a particular kind of person or a member of some specific nation or religion to have human rights. 
 - People have human rights independently of whether they are found in the practices, morality, or law of their country or culture. 
@@ -20,7 +20,7 @@ title: What are human rights?
 
 ## :two: High-priority rights
 
-### Wich means \\ that …
+### Which means \\ that …
 
 - Human rights are matters of paramount importance and their violation a grave affront to justice.
 - Human rights deal with very important goods, protections, and freedoms
