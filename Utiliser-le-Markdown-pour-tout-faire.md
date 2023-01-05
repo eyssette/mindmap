@@ -6,7 +6,7 @@ maxWidth: 250
 
 ## Pourquoi ?
 - Le markdown est une syntaxe simple qui permet de créer des documents complexes
-- On a tout les avantages de travailler avec un simple fichier texte [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/arguments-format-texte.md)
+- On a tous les avantages de travailler avec un simple fichier texte [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/arguments-format-texte.md)
 
 ## Comment ?
 
