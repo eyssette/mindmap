@@ -1,6 +1,6 @@
 ---
 maxWidth: 300
-style:
+style: g[data-depth="0"] div:after{content:"Cliquer sur les cercles pour afficher le détail des domaines"; display:block; margin-top:1.5em; font-size:0.6em; line-height:1.2}
 ---
 
 # CRCN Édu
