@@ -32,4 +32,4 @@ maxWidth: 270
 - Ouverture européenne
 	- Voyage à Amsterdam pour découvrir des associations humanitaires, un lycée nééerlandais, et le parcours de français qui étudient ou travaillent aux Pays-Bas
 - Ouverture culturelle
-- → Un atout important \\ pour le post-bac
+- \\→ Un atout important \\ pour le post-bac
