@@ -20,5 +20,4 @@ maxWidth: 300
 - Un renforcement linguistique : passage de la certification Cambridge en Terminale et mention européenne au baccalauréat
 - Une ouverture européenne : organisation d'un voyage à Amsterdam pour découvrir des associations humanitaires, un lycée nééerlandais, et le parcours de français qui étudient ou travaillent aux Pays-Bas
 - Une ouverture culturelle : une réflexion dès la 2nde sur des questions philosophiques, sociales et politiques
-
-Un atout important pour le post-bac, notamment en cas de choix d'une formation sélective !
+- → Un atout important pour le post-bac, notamment en cas de choix d'une formation sélective !
