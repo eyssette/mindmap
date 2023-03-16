@@ -1,5 +1,5 @@
 ---
-maxWidth: 500
+maxWidth: 540
 style: g[data-depth="0"] div:after {content:"Cliquer sur les cercles pour afficher la suite"; display:block; margin-top:1em} img {display:block; margin-top:-0.5em} aside {display:block!important; margin-top:0.5em}
 ---
 
@@ -8,7 +8,7 @@ style: g[data-depth="0"] div:after {content:"Cliquer sur les cercles pour affich
 ## Position du \\problème
 
 ### **Contexte**
-- Dénonciation aux E.U. de professeurs “gauchistes” ou propageant des “valeurs anti-américaines”
+- Dénonciation aux E.U. de professeurs “gauchistes” \\ou propageant des “valeurs anti-américaines”
 - Chasse au “wokisme”, à l''islamo-gauchisme” en France
 
 ### **Deux valeurs \\ importantes**
@@ -29,10 +29,10 @@ style: g[data-depth="0"] div:after {content:"Cliquer sur les cercles pour affich
 
 ### **Deux positions\\  radicales**
 
-#### Neutralité \\ absolue<!--fold-->
+#### Neutralité \\ absolue <!--fold-->
 - Une position qui semble intuitive : les profs semblent devoir faire preuve d'impartialité et d'objectivité et ne sont pas recrutés pour faire part de leurs engagements, mais pour transmettre des savoirs et entraîner les élèves à former leur propre jugement
 - Trois \\ problèmes
-  - La neutralité est un leurre : tout point de vue est situé et potentiellement soumis à des biais dont nous ne sommes pas immédiatement conscients ; il ne suffit donc pas de vouloir être neutre pour l'être, et il vaut mieux être transparent sur ses convictions pour permettre aux apprenants d'être conscients des biais potentiels des profs.
+  - La neutralité est un leurre : tout point de vue est situé et potentiellement soumis à des biais dont nous ne sommes pas immédiatement conscients ; il ne suffit donc pas de vouloir être neutre pour l'être, et ce serait peut-être mieux d'être transparent sur ses convictions pour permettre aux apprenants d'être conscients des biais potentiels des profs.
   - L'exigence de neutralité n'a de sens que pour les sujets réellement controversés : ce serait absurde de demander aux profs d'être neutres à propos de sujets qui ne font pas l'objet d'un désaccord raisonnable.
   - L'appel à la neutralité n'a pas de sens quand des profs sont confrontés à des situations d'injustice qui relèvent du cadre des droits humains.
 - Une \\confusion
@@ -53,17 +53,17 @@ style: g[data-depth="0"] div:after {content:"Cliquer sur les cercles pour affich
 - Une attitude qui consiste à ne pas éviter les sujets controversés et à engager les apprenants dans des discussions sérieuses et respectueuses à propos de ces sujets, sans donner sa propre opinion
 - Limites
   - Manque de transparence et risque d'influence en raison des biais cachés
-  - Manque de réciprocité entre profs (qui cachent leur opinion) et apprenants (qui la dévoilent)
+  - Manque de réciprocité entre profs (qui cachent leur opinion) \\ et apprenants (qui la dévoilent)
 
-#### Dialogisme engagé<!--fold-->
+#### Dialogisme engagé <!--fold-->
 - Consiste à susciter le débat sur des sujets controversés, en veillant à une présentation charitable de la diversité des positions possibles, mais sans cacher son opinion
 - Limites
   - Risque d'une asymétrie dans la présentation des différentes positions
   - Risque malgré tout d'un effet d'influence
   
   
-## Trois points importants
+## Trois points \\ importants
 
-- \\ Les profs ont-ils réellement une influence sur les apprenants ? C'est une question empirique
-- Faire prendre conscience de la réalité d'un problème (p.ex. l'ampleur des inégalités socioéconomiques, ou l'urgence de la crise climatique), ce n'est pas endoctriner, dans la mesure où ce problème repose largement sur des données factuelles
+- \\ Les profs ont-ils réellement une influence sur les apprenants ? \\C'est une question empirique
+- Faire prendre conscience de la réalité d'un problème (p.ex. l'ampleur des inégalités socioéconomiques, ou l'urgence de la crise climatique), ce n'est pas endoctriner, dans la mesure où ce problème repose largement \\sur des données factuelles
 - La question se pose différement selon les contextes d'enseignement
