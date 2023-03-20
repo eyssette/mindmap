@@ -4,7 +4,7 @@ style: aside{display:block!important; font-size:0.72em; font-weight:300;} g[data
 title: Typologie des différents modes d'actions politique
 ---
 
-# Une taxonomie \\de l'action _<aside>Un schéma adapté de celui proposé par Derrick Jensen dans [Deep Green Resistance](https://www.editionslibre.org/produit/deep-green-resistance-un-mouvement-pour-sauver-la-planete-derrick-jensen-lierre-keith-et-aric-mcbay/) p.285</aside>_
+# Typologie des \\différents modes \\d'action politique _<aside>Un schéma adapté de celui proposé par Derrick Jensen dans [Deep Green Resistance](https://www.editionslibre.org/produit/deep-green-resistance-un-mouvement-pour-sauver-la-planete-derrick-jensen-lierre-keith-et-aric-mcbay/) p.285</aside>_
 
 ## Actes \\ d'omission **<aside>Désobéissance politique, \\sociale ou économique</aside>**
 
