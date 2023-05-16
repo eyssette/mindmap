@@ -7,21 +7,21 @@ maxWidth: 300
 ## :a: Pourquoi ? <!-- fold -->
 
 ### :one: Un format \\léger
-* **Édition** plus rapide <!-- fold -->
+* :zap: **Édition** plus rapide <!-- fold -->
   * Pas besoin d'un logiciel lourd
   * Pas besoin d'un ordinateur hyper-performant 
   * Utilisation de logiciels plus adaptés \\pour l'édition de textes
   * Focalisation sur le fond \\et pas sur la forme
-* **Sauvegarde** plus économe et plus rapide <!-- fold -->
+* :zap: **Sauvegarde** plus économe et plus rapide <!-- fold -->
   * synchronisation facilitée
   * versionnage facilité
-* **Recherche** plus rapide dans ses fichiers
+* :zap: **Recherche** plus rapide dans ses fichiers
 
 ### :two: Un format \\ouvert
 
-* On peut utiliser n'importe quelle **machine** et n'importe quel **logiciel** d'édition de texte
-* On peut **collaborer** facilement sur un même fichier
-* La **pérennité** du fichier est assurée
+* ♲ On peut utiliser n'importe quelle **machine** et n'importe quel **logiciel** d'édition de texte
+* 🧑🏿‍🤝‍🧑🏽 On peut **collaborer** facilement sur un même fichier
+* :watch: La **pérennité** du fichier est assurée
 
 ### :three: Un bon \\compromis
 
