@@ -9,24 +9,24 @@ maxWidth: 300
 ### :one: Un format \\léger
 * :zap: **Édition** plus rapide <!-- fold -->
   * Pas besoin d'un logiciel lourd
-  * Pas besoin d'un ordinateur hyper-performant 
+  * Pas besoin d'un ordinateur \\hyper-performant 
   * Utilisation de logiciels plus adaptés \\pour l'édition de textes
   * Focalisation sur le fond \\et pas sur la forme
-* :zap: **Sauvegarde** plus économe et plus rapide <!-- fold -->
+* :zap: **Sauvegarde** plus économe \\et plus rapide <!-- fold -->
   * synchronisation facilitée
   * versionnage facilité
-* :zap: **Recherche** plus rapide dans ses fichiers
+* :zap: **Recherche** plus rapide \\dans ses fichiers
 
 ### :two: Un format \\ouvert <!-- fold -->
 
-* ♲ On peut utiliser n'importe quelle **machine** et n'importe quel **logiciel** d'édition de texte
-* 🧑🏿‍🤝‍🧑🏽 On peut **collaborer** facilement sur un même fichier
+* ♲ On peut utiliser n'importe quelle **machine** et n'importe quel **logiciel** \\d'édition de texte
+* 🧑🏿‍🤝‍🧑🏽 On peut **collaborer** facilement \\sur un même fichier
 * :watch: La **pérennité** du fichier est assurée
 
 ### :three: Un bon \\compromis <!-- fold -->
 
-* Une syntaxe qui reste simple
-* Mais qui permet de créer des documents complexes <!-- fold -->
+* :seedling: Une syntaxe qui reste simple
+* :jigsaw: Mais qui permet de créer \\des documents complexes <!-- fold -->
 	*  Possibilité d'intégrer du HTML, du $\LaTeX$
 	* Des extensions possibles du Markdown
 	* Possibilité d'avoir un en-tête en YAML
@@ -38,12 +38,12 @@ maxWidth: 300
 
 ## :b: Pour \\faire quoi ? <!-- fold -->
 
-- Une carte mentale
-- Un document PDF, \\un document à \\imprimer en A4
-- Prise de notes
-- Un diaporama
-- Un site web
-- Des activités avec ou \\pour les élèves <!-- fold -->
+- :brain: Une carte mentale
+- :printer: Un document PDF, \\un document à \\imprimer en A4
+- :memo: Prise de notes
+- :film_projector: Un diaporama
+- :spider_web: Un site web
+- :woman-running: Des activités avec ou \\pour les élèves <!-- fold -->
 	* Un [dialogue](https://codimd.apps.education.fr/KsjwIfUJT8S8X0gs3lsMIA?both) sous la forme de SMS échangés
 	* Des [flashcards](https://codimd.apps.education.fr/aHGYCpIiRtmiP7ewkoWOYQ?both) 
 	* Un [commentaire d'un texte](https://codimd.apps.education.fr/a8oECv4nSeu6LMsGUfxqVQ?both)
