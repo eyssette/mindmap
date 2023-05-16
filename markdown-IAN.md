@@ -40,6 +40,7 @@ maxWidth: 300
 
 - Une carte mentale
 - Un document PDF, \\un document à \\imprimer en A4
+- Prise de notes
 - Un diaporama
 - Un site web
 - Des activités avec ou \\pour les élèves <!-- fold -->
