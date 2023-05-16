@@ -40,7 +40,7 @@ maxWidth: 300
 
 - :brain: Une carte mentale
 - :printer: Un document PDF, \\un document à \\imprimer en A4
-- :memo: Prise de notes
+- :memo: De la prise de notes
 - :film_projector: Un diaporama
 - :spider_web: Un site web
 - :woman-running: Des activités avec ou \\pour les élèves <!-- fold -->
