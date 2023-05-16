@@ -17,13 +17,13 @@ maxWidth: 300
   * versionnage facilité
 * :zap: **Recherche** plus rapide dans ses fichiers
 
-### :two: Un format \\ouvert
+### :two: Un format \\ouvert <!-- fold -->
 
 * ♲ On peut utiliser n'importe quelle **machine** et n'importe quel **logiciel** d'édition de texte
 * 🧑🏿‍🤝‍🧑🏽 On peut **collaborer** facilement sur un même fichier
 * :watch: La **pérennité** du fichier est assurée
 
-### :three: Un bon \\compromis
+### :three: Un bon \\compromis <!-- fold -->
 
 * Une syntaxe qui reste simple
 * Mais qui permet de créer des documents complexes <!-- fold -->
