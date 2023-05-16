@@ -38,11 +38,17 @@ maxWidth: 300
 
 ## :b: Pour \\faire quoi ? <!-- fold -->
 
-- :brain: Une carte mentale
-- :printer: Un document PDF, \\un document à \\imprimer en A4
+- :brain: Une carte mentale<!-- fold -->
+	- [myMarkmap](https://mymarkmap.netlify.app/)
+- :printer: Un document PDF, \\un document à \\imprimer en A4<!-- fold -->
+	- [Pandoc](https://pandoc.org/)
+	- [A4-Convert](https://eyssette.github.io/a4/convert)
 - :memo: De la prise de notes
-- :film_projector: Un diaporama
-- :spider_web: Un site web
+- :film_projector: Un diaporama<!-- fold -->
+	- Avec [CodiMD](https://codimd.apps.education.fr/)
+	- Avec [Marp](https://eyssette.github.io/teaching-theme-for-marp/)
+- :spider_web: Un site web<!-- fold -->
+	- Sur la [forge](https://forge.aeif.fr/)
 - :woman-running: Des activités avec ou \\pour les élèves <!-- fold -->
 	* Un [dialogue](https://codimd.apps.education.fr/KsjwIfUJT8S8X0gs3lsMIA?both) sous la forme de SMS échangés
 	* Des [flashcards](https://codimd.apps.education.fr/aHGYCpIiRtmiP7ewkoWOYQ?both) 
