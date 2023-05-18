@@ -47,8 +47,9 @@ maxWidth: 300
 - :film_projector: Un diaporama<!-- fold -->
 	- Avec [CodiMD](https://codimd.apps.education.fr/)
 	- Avec [Marp](https://eyssette.github.io/teaching-theme-for-marp/)
-- :spider_web: Un site web<!-- fold -->
-	- Sur la [forge](https://forge.aeif.fr/)
+- :spider_web: Une page \\ ou un site web<!-- fold -->
+	- Une page : avec [CodiMD](https://codimd.apps.education.fr/)
+	- Un site : sur la [forge](https://forge.aeif.fr/modeles-projets) avec le \\ modèle Pandoc, Mkdocs ou Jekyll
 - :woman-running: Des activités avec ou \\pour les élèves <!-- fold -->
 	* Un [dialogue](https://codimd.apps.education.fr/KsjwIfUJT8S8X0gs3lsMIA?both) sous la forme de SMS échangés
 	* Des [flashcards](https://codimd.apps.education.fr/aHGYCpIiRtmiP7ewkoWOYQ?both) 
