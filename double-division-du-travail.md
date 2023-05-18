@@ -1,19 +1,15 @@
-# Double division \\ du travail
+# Double \\ division \\ du travail
 
-## Division \\ ++verticale++ \\ du travail
+## Division \\ ++verticale++ \\ du travail <!--fold-->
 
-- Les **ingénieurs** conçoivent \\ le produit et la manière la \\ plus efficace de le produire
+- = Les **ingénieurs** conçoivent
+le produit et la manière la
+plus efficace de le produire
 
-- Les **ouvriers** doivent
-simplement exécuter
-les tâches qu'on leur
-indique de faire
+- &rArr; Les **ouvriers** {{ doivent \\ simplement exécuter \\ les tâches qu'on leur \\ indique de faire }}
 
-## Division \\ ++horizontale++ \\ du travail
-- Le processus de production
-est décomposé en **une série
-d'opération partielles**.
+## Division \\ ++horizontale++ \\ du travail <!--fold-->
 
-- L'ouvrier doit accomplir des
-**tâches élémentaires,
-répétitives et cadencées**
+- = une **parcellisation** \\maximale du travail
+
+- &rArr; Les ouvriers {{ doivent \\ accomplir  des **tâches \\ élémentaires,  répétitives \\et cadencées** }}
