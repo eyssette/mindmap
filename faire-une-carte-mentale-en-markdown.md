@@ -22,10 +22,10 @@ maxWidth: 200
 	- Via [CodiMD](https://codimd.apps.education.fr/)
 	- Intégration possible \\sur un site web \\ (en _svg_ ou en _html_)
 
-## :wrench: Comment ?
+## :wrench: Comment ?<!--fold-->
 - \\Logiciel en ligne : [myMarkmap](https://mymarkmap.netlify.app/)
 - Tutoriel sur la page \\du logiciel
-- Quelques conseils
+- Quelques conseils<!--fold-->
 	- Commencer par utiliser seulement les titres `#` et les listes à puces `- `
 	- {{Utiliser CodiMD pour conserver le texte de la carte mentale}}
 	- {{Premiers usages avancés :}} <!--fold-->
