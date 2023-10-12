@@ -15,7 +15,7 @@ style: aside {position:absolute; width:200px; font-size:0.5em; top:7.5em; left:0
 ## \\2) Respecter des principes de justice et de non-discrimination
 - \\\\Égalité d'accès à l'IA
 - Accessibilité de l'IA, en fonction des besoins particuliers de chacun
-- Garanties contre les biais et les discriminations que peut produire par l'IA 
+- Garanties contre les biais et les discriminations que peut produire l'IA 
 
 ## \\3) Prendre en compte les conséquences
 - \\\\Conséquences sur les personnes
