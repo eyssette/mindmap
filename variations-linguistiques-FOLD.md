@@ -1,27 +1,27 @@
 ---
-maxWidth: 170
-style: span span {font-weight:normal; display:inline-block}
+maxWidth: 190
+style: span span {font-weight:light; display:inline-block}
 ---
 
 # Variations linguistiques
 
 ## Toutes les \\ variantes sont-elles équivalentes ? <!--fold-->
 
-### Non, il y a des variantes **stigmatisées** 
+### Non, il y a des \\ variantes **stigmatisées** 
 ### et des variantes \\ **valorisées**
 
 ## Qu'est-ce qui \\ peut varier ? <!--fold-->
 
-### {{La prononciation : **variation phonique**}}
-### {{Le choix des mots et des expressions : **variation lexicale**}}
-### {{La structure de la phrase : **variation syntaxique**}}
+### {{La prononciation : \\ **variation phonique**}}
+### {{Le choix des mots \\ et des expressions : \\ **variation lexicale**}}
+### {{La structure de la \\ phrase : **variation syntaxique**}}
 
-## Selon quels paramètres ? <!--fold-->
+## Selon quels \\ paramètres ?<!--fold-->
 
-### {{**Variation diachronique** <span>(dans le temps)</span>}}
+### {{**Selon le temps, l'époque** <span>(Variation diachronique)</span>}}
 
-### {{**Variation diatopique** <span>(selon le lieu)</span>}}
+### {{**Selon le lieu** <span>(Variation diatopique)</span>}}
 
-### {{**Variation diastratique** <span>(selon le groupe social)</span>}}
+### {{**Selon le groupe social** <span>(Variation diastratique)</span>}}
 
-### {{**Variation diaphasique** <span>(selon le contexte)</span>}}
+### {{**Selon le contexte** <span>(Variation diaphasique)</span>}}
