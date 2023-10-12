@@ -10,7 +10,7 @@ style: aside {position:absolute; width:200px; font-size:0.5em; top:8.5em; left:0
 - Pour pouvoir être assisté dans la compréhension d'un élément de cours
 - Pour avoir un retour d'information automatisé sur son travail
 
-## \\2) Par les enseignant·e·s
+## \\2) Par les enseignants
 - \\ Pour aider à la recherche et à la construction de ressources pédagogiques
 - Pour assister le travail d'évaluation
 
