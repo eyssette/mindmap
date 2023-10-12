@@ -9,10 +9,10 @@ style: aside {position:absolute; width:200px; font-size:0.5em; top:8.5em; left:0
 
 ## « L'IA est trop difficile à comprendre »
 - Le jargon associé aux IA peut rebuter
-- Il est difficile de comprendre \\le fonctionnement interne d'un système
+- Il est difficile de comprendre \\le fonctionnement interne d'une IA
 
 - :thinking_face: Mais
-	-  le but n'est pas de de comprendre \\tous les aspects techniques de l'IA
+	-  Le but n'est pas de de comprendre \\tous les aspects techniques de l'IA
 	- L'essentiel est de saisir les mécanismes de base et \\les implications dans le cadre de l'enseignement
 
 ## « L'IA n'a pas sa place dans l'éducation »
