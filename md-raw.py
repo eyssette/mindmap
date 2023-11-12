@@ -36,6 +36,14 @@ def replace_spaces(content):
     
     return content
 
+def replace_bold_and_italics(content):
+    content = re.sub(r"\*\*(.*?)\*\*", r"\1", content)
+    content = re.sub(r"\*(.*?)\*", r"\1", content)
+    content = re.sub(r"_(.*?)_", r"\1", content)
+    content = re.sub(r"__(.*?)__", r"\1", content)
+
+    return content
+
 def process_file(file_path):
     # Suppression de l'en-tête YAML
     content = remove_yaml_header(file_path)
@@ -49,6 +57,10 @@ def process_file(file_path):
     # Remplacement des espaces inutiles
     content = replace_spaces(content)
     
+    # Remplacement du gras et des italiques
+
+    content = replace_bold_and_italics(content)
+
     return content
 
 # Vérification des arguments en ligne de commande
