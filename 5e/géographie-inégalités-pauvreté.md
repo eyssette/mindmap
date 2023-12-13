@@ -18,14 +18,14 @@ maxWidth: 310
 ## Ces inégalités sont \\==principalement entre les \\pays du Nord et les pays du Sud==
 
 ### Les ==pays du Nord== sont des pays riches et développés
-- Produisent beaucoup de richesse
+- Produisent beaucoup de richesse (PIB important)
 - Systèmes de santé efficaces et longue durée de vie
 - Population éduquée
 
 ### Les ==pays du Sud== sont des pays pauvres et en développement, mais il existe de grandes différences entr eeux
 
 #### ==Les pays émergents==
-- des pays qui s'enrichissent rapidement mais où les inégalités sont encore fortes (Chine, Brésile, Inde)
+- Des pays qui s'enrichissent rapidement mais où les inégalités sont encore fortes (Chine, Brésile, Inde)
 #### ==Les pays les moins avancés==
 - = Les pays les plus pauvres et les moins développés (la plupart sont situés en Afrique subsaharienne : Mali, …)
 #### ==Les autres pays \\en développement==
@@ -34,9 +34,9 @@ maxWidth: 310
 ## Mais il y a ==des inégalités \\à toutes les échelles==
 
 ### ==Dans les pays du Nord==, il y a des inégalités
-- Entre les différentes ==régions== (exemple : moins de pauvreté dans l'ouest de la France que dans le nord ou le sud)
-- Entre ==villes== et ==campagnes==
-- À ==l'intérieur même des villes== (à Paris : il y a une différence Est/Ouest)
+- Entre les différentes **régions** (exemple : moins de pauvreté dans l'ouest de la France que dans le nord ou le sud)
+- Entre **villes** et **campagnes**
+- À **l'intérieur même des villes** (à Paris : il y a une différence Est/Ouest)
 
 ### ==Dans les pays du Sud==, il y a des inégalités souvent encore plus marquées
 - ==Les bidonvilles== côtoient des ==quartiers riches==, fermés et surveillés (exempe : à Mexico, dans le quartier de Santa Fe)
@@ -45,11 +45,11 @@ maxWidth: 310
 ## Comment la \\pauvreté ==évolue== ?
 
 ### ==La pauvreté a reculé \\dans le monde==
-- Depuis les années 1980
-- Le nombre de personnes sous le seuil de pauvreté (moins de 2.15$ par jour par personne) est maintenant de 700 millions
+- Depuis les **années 1980**
+- **Le nombre de personnes sous le seuil de pauvreté** (moins de 2.15$ par jour par personne) est maintenant de 700 millions
 - Mais une augmentation de nouveau suite à la pandémie de Covid-19
 
 ### 	==Des situations qui\\ restent difficiles==
-- Particulièrement en Afrique subsaharienne et en Asie du Sud, à cause des guerres, de l'instabilité politique, des catastrophes naturelles, et récemment de la pandémie
-- Les femmes et les enfants les plus pauvres sont davantage touchés
-- Dans les pays riches, la crise économique a accentué les inégalités riches / pauvres
+- **Particulièrement en Afrique subsaharienne et en Asie du Sud**, à cause des **guerres**, de **l'instabilité politique**, des **catastrophes naturelles**, et récemment de la pandémie
+- **Les femmes et les enfants** les plus pauvres sont davantage touchés
+- Dans les pays riches, **la crise économique a accentué les inégalités** entre les riches et les pauvres
