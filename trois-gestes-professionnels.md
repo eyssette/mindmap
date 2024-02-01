@@ -1,5 +1,5 @@
 ---
-maxWidth: 250
+maxWidth: 222
 ---
 
 # Trois gestes \\professionnels
