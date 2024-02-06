@@ -1,9 +1,8 @@
 ---
 maxWidth: 200
-style: img{width:200px;}
 ---
 
-# ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/logo/Logo_La_Forge_compact.svg?ref_type=heads)
+# ![h-75](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/logo/Logo_La_Forge_compact.svg?ref_type=heads)
 
 - ==Souveraineté== de la forge et ==pérennité== des données
 - Développement du ==libre éducatif== et des ==communs== numériques
