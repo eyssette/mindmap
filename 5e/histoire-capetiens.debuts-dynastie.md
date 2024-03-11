@@ -14,7 +14,7 @@ maxWidth: 300
 ## Un certain pouvoir
 - Le roi a ==plusieurs pouvoirs== : législatif, militaire, judiciaire, politique
 - Le ==sacre du roi== permet de donner une légitimité : le roi est sacré par l'évêque (de Reims) en présence des seigneurs ; le sacre rend le roi élu de Dieu
-- Le roi a ses propres ==_regalia_==, qui sont des symboles de sa royauté : couronne, spectre, main de justice, épée, fleur de lys, l'anneau d'or et les éperons
+- Le roi a ses propres ==_regalia_==, qui sont des symboles de sa royauté : couronne, sceptre, main de justice, épée, fleur de lys, l'anneau d'or et les éperons
 
 ## Mais un \\pouvoir relatif
 - Le pouvoir du roi est fondé sur le ==pouvoir de l'Église==
