@@ -1,10 +1,11 @@
 ---
 maxWidth: 330
-style: aside {position:absolute; top:70px; left:0; font-size:0.6em} g[data-depth="3"] {color:#555}
 title: What are human rights?
+style: aside {position:absolute; top:70px; left:0; font-size:0.5em!important}
+theme: focus
 ---
 
-# Human \\ rights are … <aside>Source : \\[Nickel, James, \\"Human Rights"](https://plato.stanford.edu/archives/fall2021/entries/rights-human/)<aside>
+# Human \\ rights are … <aside>Source : [Nickel, James, "Human Rights"](https://plato.stanford.edu/archives/fall2021/entries/rights-human/)<aside>
 
 ## :one: Universal rights
 

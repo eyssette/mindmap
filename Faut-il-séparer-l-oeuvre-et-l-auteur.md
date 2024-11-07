@@ -12,7 +12,7 @@ style: g[data-depth="1"] span span {font-weight:normal; display:inline-block; ma
 ## \\\\:one: À propos des faits \\ reprochés à l'auteur 
 
 - \\ \\ Quelle est la ==gravité== \\ des faits en question ?
-  - \\ \\ Même s'il est difficile de faire des hiérarchies, on peut tout de même distinguer \\ les auteurs qui ont commis des actes criminels et les auteurs qui ont tenu des \\ propos ou soutenus des causes ou défendus des personnes problématiques
+  - \\ \\ Même s'il est difficile de faire des hiérarchies, on peut tout de même distinguer \\ les auteurs qui ont commis des actes criminels et les auteurs qui ont tenu des \\ propos ou soutenu des causes ou défendu des personnes problématiques
 - Dans quelle mesure ces \\faits sont-ils ==révélateurs\\ de l'auteur== lui-même ?
   - Cette question se pose essentiellement dans le cas où les faits reprochés sont des propos et non des actes : ces propos sont-ils révélateurs des idées profondes \\ de l'auteur ou de ce qu'il est ? Sont-ils seulement l'expression d'un contexte particulier ?
 - <span class="small">:warning:  Généralement, la question de la séparation de l'œuvre et de l'auteur se pose pour des faits graves et qui ne sont pas de simples erreurs accidentelles. L'objection selon laquelle “personne n'est parfait” n'a pas de sens ici. La démarche de questionnement des œuvres ne peut pas être réduite à une prétendue recherche de la sainteté morale.</span>
