@@ -1,9 +1,10 @@
 ---
-maxWidth: 205
+maxWidth: 210
+theme: nolines
 ---
 
-# On peut \\utiliser l'IA
+# Trois types \\d'usages de l'IA
 
-- … pour créer une ressource
-- \\… pour adapter le contenu \\ ou changer le format d'une ressource déjà existante
-- \\… pour évaluer et améliorer \\une ressource déjà existante
+- 🛠️  Pour créer une ressource
+- ♻️ Pour adapter le contenu ou changer le format d'une ressource déjà existante
+- 📈 Pour évaluer et améliorer une ressource déjà existante
