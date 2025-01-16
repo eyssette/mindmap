@@ -15,7 +15,7 @@ maxWidth: 250
 - Documents textes : \\[CodiMD](https://codimd.apps.education.fr/) et [VSCodium](https://vscodium.com/)
 - Cartes mentales : \\[Mymarkmap](https://mymarkmap.netlify.app/)
 - Diaporamas : \\[Marp](https://eyssette.github.io/teaching-theme-for-marp/) & [Reveal.js](https://revealjs.com/)
-- Sites webs : Jekyll & Mkdocs sur \\la [Forge des Communs\\ Numériques Éducatifs](https://forge.aeif.fr/)
+- Sites webs : Jekyll & Mkdocs sur \\la [Forge des Communs\\ Numériques Éducatifs](https://forge.apps.education.fr/)
 
 ### Des modèles \\déjà tout prêts
 
