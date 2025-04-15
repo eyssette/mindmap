@@ -2,6 +2,7 @@
 maxWidth: 282
 theme: nolines
 focusOnBranch: true
+initialExpandLevel: 1
 ---
 
 # Usages possibles \\de la forge
