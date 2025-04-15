@@ -1,5 +1,6 @@
 ---
 maxWidth: 200
+theme: nolines
 ---
 
 # Intérêt des \\ressources \\libres
@@ -13,5 +14,5 @@ maxWidth: 200
 - hébergement \\souverain
 
 ## Droit de remixer \\et modifier
-- \\favoriser l'innovation
-- favoriser la collaboration
+- \\favoriser \\l'innovation
+- favoriser \\la collaboration
