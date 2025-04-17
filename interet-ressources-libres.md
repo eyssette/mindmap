@@ -1,18 +1,20 @@
 ---
 maxWidth: 200
 theme: nolines
+style: g[data-depth="1"] span span {font-weight:500!important}
 ---
 
-# Intérêt des \\ressources \\libres
+# Pourquoi choisir \\une licence libre ?
 
-## Droit de consulter
-- diffusion des \\connaissances
-- transparence, \\confiance, sécurité
+## <span>Pour garantir un \\droit de</span> consulter
+- diffusion des connaissances, \\accès universel, \\réduction des inégalités
+- transparence, \\confiance, sécurité \\(audit externe possible)
 
-## Droit de rediffuser
-- \\pérennité
-- hébergement \\souverain
+## <span>Pour garantir un\\droit de</span>  rediffuser
+- pérennité de la ressource
+- hébergement souverain possible (indépendance et contrôle de ses données)
 
-## Droit de remixer \\et modifier
-- \\favoriser \\l'innovation
-- favoriser \\la collaboration
+## <span>Pour garantir un \\droit de</span> remixer \\<span>et</span> modifier
+- innovation 
+- amélioration continue
+- collaboration
