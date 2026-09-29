@@ -1,5 +1,5 @@
 ---
-theme: nolines
+theme: focus
 maxWidth: 180
 initialExpandLevel: 3
 focusOnBranch: false
@@ -7,10 +7,10 @@ automaticResize: true
 
 ---
 
-# Avantages <br>du Markdown
+# Avantages du <br>Markdown
 
 
-## 👌 <br>Un langage <br>simple <br>et lisible
+## 👌 <br>Un langage <br>simple et lisible
 
 ### Facile à lire
 - Pas de balises compliquées : la syntaxe n'alourdit pas le texte, qui reste lisible
@@ -19,7 +19,7 @@ automaticResize: true
 - Syntaxe de base simple, facile à apprendre et à mémoriser
 - Balises courtes et intuitives, faciles à taper
 
-## 🎈<br>Un format <br>léger <br>et ouvert
+## 🎈<br>Un format <br>léger et ouvert
 
 ### Sobriété technique et manipulation rapide
 - Fichier léger, sauvegarde rapide et économe. Pas besoin d'un logiciel lourd, ni d'un ordinateur hyper-performant.
@@ -30,7 +30,7 @@ automaticResize: true
 - Pérennité : pas de dépendance à un logiciel spécifique.
 - Collaboration facilitée : tout le monde peut lire et modifier le fichier.
 
-## 💪<br>Un format <br>puissant <br>et polyvalent
+## 💪<br>Un format <br>puissant et polyvalent
 
 ### Écriture plus efficace
 - Création efficace de documents complexes avec une syntaxe simple.
